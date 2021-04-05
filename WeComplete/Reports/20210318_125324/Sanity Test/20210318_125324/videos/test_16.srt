@@ -1,0 +1,76 @@
+1
+00:00:00,123 --> 00:00:00,124
+1. callTestCase(findTestCase("common_test _cases/login_Page"), ["headerDashboard":headerDashboard, "loginId":User1, "Password":Password], STOP_ON_FAILURE)
+
+2
+00:00:00,314 --> 00:00:00,314
+3. Navigate to legal URL
+
+3
+00:00:05,674 --> 00:00:05,674
+9. Verify Login tab
+
+4
+00:00:08,272 --> 00:00:08,273
+15. Verify Login Page header
+
+5
+00:00:08,925 --> 00:00:08,925
+21. Enter Login id
+
+6
+00:00:15,630 --> 00:00:15,630
+27. Enter Password
+
+7
+00:00:22,332 --> 00:00:22,333
+33. Click on Login button
+
+8
+00:00:26,002 --> 00:00:26,002
+37. delay(7)
+
+9
+00:00:33,003 --> 00:00:33,003
+43. Verify after login Dashbard page opned
+
+10
+00:00:35,326 --> 00:00:35,327
+5. waitForPageLoad(longTime)
+
+11
+00:00:35,359 --> 00:00:35,359
+9. if (verifyElementPresent(findTestObject("Object Repository/Dashborad/hedaer_Your Recent Propertie"), shortTime) == true)
+
+12
+00:00:35,806 --> 00:00:35,806
+3. Your Recent Propertie header
+
+13
+00:00:36,258 --> 00:00:36,258
+9. Visible Quote Accepted tab 
+
+14
+00:00:36,696 --> 00:00:36,696
+1. delay(5)
+
+15
+00:00:41,697 --> 00:00:41,698
+7. Click on Quote Accepted tab
+
+16
+00:00:42,002 --> 00:00:42,002
+1. println(testCaseContext.getTestCaseId())
+
+17
+00:00:42,002 --> 00:00:42,002
+5. println(testCaseContext.getTestCaseStatus())
+
+18
+00:00:44,065 --> 00:00:44,065
+1. println(testCaseContext.getTestCaseId())
+
+19
+00:00:44,066 --> 00:00:44,066
+5. println(testCaseContext.getTestCaseVariables())
+

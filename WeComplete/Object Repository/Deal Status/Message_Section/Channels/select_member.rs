@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_member</name>
+   <tag></tag>
+   <elementGuidId>08c0ac72-fc45-4314-b197-f8f6bb9ca8ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;scroll_files&quot;]/div[3]/div/div[1]/label/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;scroll_files&quot;]/div[3]/div/div[1]/label/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

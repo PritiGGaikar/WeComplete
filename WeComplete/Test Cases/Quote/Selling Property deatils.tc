@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Selling Property deatils</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e5d3b2b-8b76-4443-8f24-c6de988490aa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>776074ae-1915-439e-b2e6-3c9503dcd6aa</id>
+      <masked>false</masked>
+      <name>quoteHeaderEA</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b8002a0e-d329-440c-932d-a4edd4cb948d</id>
+      <masked>false</masked>
+      <name>sellPropertyHeader</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d266ea7c-3563-4a7a-9f15-c02b80c310aa</id>
+      <masked>false</masked>
+      <name>sellPropertyPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82162f9e-741b-4622-91a9-c7a187cf9f04</id>
+      <masked>false</masked>
+      <name>postCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6399c99-2089-4de3-afba-a8a15f1216cb</id>
+      <masked>false</masked>
+      <name>houseNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34982243-a8f3-4fad-8164-b1410fdf04dc</id>
+      <masked>false</masked>
+      <name>streetName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6352946-30bc-4c6c-a064-cdb20284a4d6</id>
+      <masked>false</masked>
+      <name>sellPropertyComments</name>
+   </variable>
+</TestCaseEntity>

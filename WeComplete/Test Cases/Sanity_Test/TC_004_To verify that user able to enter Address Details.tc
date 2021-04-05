@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_To verify that user able to enter Address Details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6bf75a2-f33d-47b4-abd2-5fdd95864f2d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Sanity Data/Corresponding_Address')</defaultValue>
+      <description></description>
+      <id>e70cc325-6c77-49ea-9cc7-592398c0f990</id>
+      <masked>false</masked>
+      <name>postCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9cecbb0a-34ed-4f22-abd3-401648471dd2</id>
+      <masked>false</masked>
+      <name>headerAddress</name>
+   </variable>
+</TestCaseEntity>

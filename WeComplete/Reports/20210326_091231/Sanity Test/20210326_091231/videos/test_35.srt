@@ -1,0 +1,76 @@
+1
+00:00:00,144 --> 00:00:00,144
+1. xpath = "//*[@id="" + currentDate() + ""]"
+
+2
+00:00:00,144 --> 00:00:00,145
+1. dateFormat = DateTimeFormatter.ofPattern("d-MMMM-yyyy")
+
+3
+00:00:00,145 --> 00:00:00,205
+5. now = LocalDateTime.now()
+
+4
+00:00:00,206 --> 00:00:00,206
+9. out.println(dateFormat.format(now))
+
+5
+00:00:00,206 --> 00:00:00,207
+13. return dateFormat.format(now)
+
+6
+00:00:00,207 --> 00:00:00,207
+5. out.println(xpath)
+
+7
+00:00:00,207 --> 00:00:00,208
+9. to = new com.kms.katalon.core.testobject.TestObject(objectName)
+
+8
+00:00:00,208 --> 00:00:00,208
+13. to.addProperty("xpath", EQUALS, xpath)
+
+9
+00:00:00,208 --> 00:00:00,209
+19. Click on current date of calendar
+
+10
+00:00:00,446 --> 00:00:00,446
+25. Verify Event tab is present
+
+11
+00:00:00,694 --> 00:00:00,694
+3. Click on Event tab
+
+12
+00:00:00,952 --> 00:00:00,953
+9. Enter event title
+
+13
+00:00:07,472 --> 00:00:07,472
+15. Click on Save button
+
+14
+00:00:07,942 --> 00:00:07,942
+19. scrollToElement(findTestObject("Object Repository/Deal Status/Calendar/Event_Section/get_event"), shortTime)
+
+15
+00:00:47,958 --> 00:00:47,959
+25. Verify created event
+
+16
+00:01:30,999 --> 00:01:30,999
+1. println(testCaseContext.getTestCaseId())
+
+17
+00:01:30,999 --> 00:01:30,999
+5. println(testCaseContext.getTestCaseStatus())
+
+18
+00:01:33,124 --> 00:01:33,124
+1. println(testCaseContext.getTestCaseId())
+
+19
+00:01:33,125 --> 00:01:33,125
+5. println(testCaseContext.getTestCaseVariables())
+

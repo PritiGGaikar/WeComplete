@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_022_Message send functionlity on direct message member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a7dadbd-1ab6-4617-b37f-b9a01fd11580</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd2acef8-d91d-4620-861d-ae9ee3aa1419</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b8725eb-9e1b-4f46-a059-b36cfbde9c46</id>
+      <masked>false</masked>
+      <name>documentRequest</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9de333f9-b8ba-4a61-a2e0-5c8dd4c3e891</id>
+      <masked>false</masked>
+      <name>docRequestMSG</name>
+   </variable>
+</TestCaseEntity>

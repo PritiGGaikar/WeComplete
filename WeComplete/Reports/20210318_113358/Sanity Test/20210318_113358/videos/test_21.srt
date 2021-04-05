@@ -1,0 +1,56 @@
+1
+00:00:00,339 --> 00:00:00,339
+3. Verify channel is present
+
+2
+00:00:01,018 --> 00:00:01,019
+3. Click on created channel
+
+3
+00:00:10,856 --> 00:00:10,856
+9. Enter message
+
+4
+00:00:18,071 --> 00:00:18,071
+15. Click on send button
+
+5
+00:00:24,830 --> 00:00:24,831
+21. Click on Document Request tab
+
+6
+00:00:28,756 --> 00:00:28,756
+27. Enter message document request tab
+
+7
+00:00:35,891 --> 00:00:35,891
+33. Click on send button
+
+8
+00:00:42,603 --> 00:00:42,604
+39. Verify that Document request successfully text .
+
+9
+00:00:43,262 --> 00:00:43,263
+45. Click on Ok button
+
+10
+00:00:43,720 --> 00:00:43,720
+51. Click on Back to calendar btn
+
+11
+00:00:44,624 --> 00:00:44,624
+1. println(testCaseContext.getTestCaseId())
+
+12
+00:00:44,630 --> 00:00:44,631
+5. println(testCaseContext.getTestCaseStatus())
+
+13
+00:00:46,788 --> 00:00:46,788
+1. println(testCaseContext.getTestCaseId())
+
+14
+00:00:46,788 --> 00:00:46,788
+5. println(testCaseContext.getTestCaseVariables())
+

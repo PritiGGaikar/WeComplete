@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DD_Select_Address</name>
+   <tag></tag>
+   <elementGuidId>1c38fca8-3a78-4905-a833-9e41f2986051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='mat-select-arrow']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='mat-select-arrow']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+1
+00:00:00,149 --> 00:00:00,149
+1. println(testCaseContext.getTestCaseId())
+
+2
+00:00:00,150 --> 00:00:00,150
+5. println(testCaseContext.getTestCaseStatus())
+
+3
+00:00:02,165 --> 00:00:02,165
+1. println(testCaseContext.getTestCaseId())
+
+4
+00:00:02,165 --> 00:00:02,165
+5. println(testCaseContext.getTestCaseVariables())
+

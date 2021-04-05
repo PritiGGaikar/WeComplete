@@ -1,0 +1,68 @@
+1
+00:00:00,114 --> 00:00:00,114
+3.  Verify Total fee text is present
+
+2
+00:00:00,567 --> 00:00:00,567
+3. Click on view details
+
+3
+00:00:01,014 --> 00:00:01,014
+9. Verify Transaction of Sell price is present
+
+4
+00:00:01,665 --> 00:00:01,666
+15. Click on Buy Fee toggle
+
+5
+00:00:02,108 --> 00:00:02,108
+21. Verify Transaction of Buy price is present
+
+6
+00:00:02,768 --> 00:00:02,768
+27. Verify Sell Fee toggle
+
+7
+00:00:03,210 --> 00:00:03,210
+33. Verify  Professional Fees Column
+
+8
+00:00:03,873 --> 00:00:03,873
+39. Verify  NET Fees Column 
+
+9
+00:00:04,524 --> 00:00:04,524
+45. Verify  VAT Fees Column
+
+10
+00:00:05,178 --> 00:00:05,178
+51. Verify  Gross Fees Column
+
+11
+00:00:05,832 --> 00:00:05,832
+57. Verify Third Party Disbursements column
+
+12
+00:00:06,487 --> 00:00:06,487
+63. Verify Selling Total column
+
+13
+00:00:07,141 --> 00:00:07,142
+69. Verify Selling + Buying Total column
+
+14
+00:00:07,796 --> 00:00:07,796
+1. println(testCaseContext.getTestCaseId())
+
+15
+00:00:07,796 --> 00:00:07,797
+5. println(testCaseContext.getTestCaseStatus())
+
+16
+00:00:09,838 --> 00:00:09,838
+1. println(testCaseContext.getTestCaseId())
+
+17
+00:00:09,839 --> 00:00:09,839
+5. println(testCaseContext.getTestCaseVariables())
+

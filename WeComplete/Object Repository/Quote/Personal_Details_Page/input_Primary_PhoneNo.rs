@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Primary_PhoneNo</name>
+   <tag></tag>
+   <elementGuidId>2e54a589-4936-439c-8a5a-5f92ee88a555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[1]/div[2]/div[1]/mat-form-field/div/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[1]/div[2]/div[1]/mat-form-field/div/div[1]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

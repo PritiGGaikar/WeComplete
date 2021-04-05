@@ -1,0 +1,36 @@
+1
+00:00:00,262 --> 00:00:00,262
+3. Verify Conveyancing Page header
+
+2
+00:00:00,963 --> 00:00:00,963
+9. Verify Instruct us button is present
+
+3
+00:00:01,639 --> 00:00:01,639
+3. Click on Instruct us
+
+4
+00:00:02,133 --> 00:00:02,133
+7. delay(30)
+
+5
+00:00:32,144 --> 00:00:32,145
+13. Verify Thank You for Accepting Your Quote Page header
+
+6
+00:00:36,650 --> 00:00:36,650
+1. println(testCaseContext.getTestCaseId())
+
+7
+00:00:36,651 --> 00:00:36,651
+5. println(testCaseContext.getTestCaseStatus())
+
+8
+00:00:38,925 --> 00:00:38,925
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:38,925 --> 00:00:38,925
+5. println(testCaseContext.getTestCaseVariables())
+

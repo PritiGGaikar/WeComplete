@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>shortTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Application login URL</description>
+      <initValue>'https://imovehome.icompleteonline.co.uk'</initValue>
+      <name>baseEAUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'priti.buyer@outlook.com'</initValue>
+      <name>buyer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Pass@123'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>longTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vishal.devmurari82@gmail.com'</initValue>
+      <name>estateAgent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vishal.a34@yahoo.com'</initValue>
+      <name>solicitor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://davisons.icompleteonline.co.uk'</initValue>
+      <name>baseSFUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

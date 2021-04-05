@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_026_Verify that user can Invite People</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb3ce699-c44e-4312-8a7f-459e5457c9e1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>224b160f-8483-45e3-8898-fa765f01e2f1</id>
+      <masked>false</masked>
+      <name>titleInvite</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4785cb78-c6c9-4ae3-999a-33f4f155781e</id>
+      <masked>false</masked>
+      <name>inviteMemberID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb6c5432-a7b8-46f9-8d83-520130587980</id>
+      <masked>false</masked>
+      <name>inviteMemberName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f63a2ef8-3012-4dcd-8c4b-18b14d8c2e65</id>
+      <masked>false</masked>
+      <name>invitationRequestMSG</name>
+   </variable>
+</TestCaseEntity>

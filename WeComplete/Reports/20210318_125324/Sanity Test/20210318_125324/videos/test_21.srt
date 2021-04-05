@@ -1,0 +1,28 @@
+1
+00:00:00,107 --> 00:00:00,107
+3. Verify channel is present
+
+2
+00:00:00,569 --> 00:00:00,569
+3. Click on created channel
+
+3
+00:00:04,019 --> 00:00:04,020
+9. Enter message
+
+4
+00:00:46,772 --> 00:00:46,772
+1. println(testCaseContext.getTestCaseId())
+
+5
+00:00:46,772 --> 00:00:46,773
+5. println(testCaseContext.getTestCaseStatus())
+
+6
+00:00:48,824 --> 00:00:48,824
+1. println(testCaseContext.getTestCaseId())
+
+7
+00:00:48,824 --> 00:00:48,824
+5. println(testCaseContext.getTestCaseVariables())
+

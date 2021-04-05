@@ -1,0 +1,48 @@
+1
+00:00:00,267 --> 00:00:00,268
+3. Click on Buy toggle
+
+2
+00:00:00,665 --> 00:00:00,665
+9. Click on Edit the Info button
+
+3
+00:00:01,779 --> 00:00:01,779
+15. Verify Selling& Buying Property pop up header
+
+4
+00:00:02,549 --> 00:00:02,549
+3. Verify Buying Property Details header
+
+5
+00:00:03,244 --> 00:00:03,245
+9. Re-enter price
+
+6
+00:00:10,300 --> 00:00:10,300
+15. Click on Update Quote
+
+7
+00:00:10,770 --> 00:00:10,770
+21. Click on Buy toggle
+
+8
+00:00:13,360 --> 00:00:13,361
+27. Verify updated Price on Property details section
+
+9
+00:00:14,824 --> 00:00:14,824
+1. println(testCaseContext.getTestCaseId())
+
+10
+00:00:14,828 --> 00:00:14,828
+5. println(testCaseContext.getTestCaseStatus())
+
+11
+00:00:16,984 --> 00:00:16,984
+1. println(testCaseContext.getTestCaseId())
+
+12
+00:00:16,984 --> 00:00:16,984
+5. println(testCaseContext.getTestCaseVariables())
+

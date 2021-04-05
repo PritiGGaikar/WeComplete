@@ -1,0 +1,44 @@
+1
+00:00:00,105 --> 00:00:00,105
+3. Click on “+” icon on channels tab
+
+2
+00:00:00,379 --> 00:00:00,379
+9. Verify Create a channel  pop up is opened
+
+3
+00:00:01,034 --> 00:00:01,034
+3. Enter channel Name
+
+4
+00:00:07,777 --> 00:00:07,778
+9. Select member on channel
+
+5
+00:00:08,135 --> 00:00:08,136
+15. Click on create button
+
+6
+00:00:08,596 --> 00:00:08,596
+21. Verify pop up Channel is created successfully.
+
+7
+00:00:13,302 --> 00:00:13,302
+27. Click on Ok button
+
+8
+00:00:13,750 --> 00:00:13,750
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:13,751 --> 00:00:13,751
+5. println(testCaseContext.getTestCaseStatus())
+
+10
+00:00:15,779 --> 00:00:15,779
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:15,779 --> 00:00:15,780
+5. println(testCaseContext.getTestCaseVariables())
+

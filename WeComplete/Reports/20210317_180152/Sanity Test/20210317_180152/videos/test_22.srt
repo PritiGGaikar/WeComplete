@@ -1,0 +1,36 @@
+1
+00:00:00,436 --> 00:00:00,436
+3. Verify that Direct message is Present
+
+2
+00:00:00,810 --> 00:00:00,811
+3. Click on Direct message tab
+
+3
+00:00:01,170 --> 00:00:01,170
+9. Verify member present on direct message section
+
+4
+00:00:01,977 --> 00:00:01,978
+3. Select direct message member
+
+5
+00:00:02,326 --> 00:00:02,327
+9. Enter message
+
+6
+00:00:33,507 --> 00:00:33,507
+1. println(testCaseContext.getTestCaseId())
+
+7
+00:00:33,507 --> 00:00:33,507
+5. println(testCaseContext.getTestCaseStatus())
+
+8
+00:00:35,764 --> 00:00:35,765
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:35,766 --> 00:00:35,766
+5. println(testCaseContext.getTestCaseVariables())
+

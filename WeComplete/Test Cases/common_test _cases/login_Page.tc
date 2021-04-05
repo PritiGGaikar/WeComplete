@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9501e288-2bed-4ec5-a1e0-f1b1f5babdde</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33504752-0b64-488b-8994-2ab2db189fc2</id>
+      <masked>false</masked>
+      <name>headerDashboard</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a48d1e82-0a31-4e31-a586-633a053ea567</id>
+      <masked>false</masked>
+      <name>loginId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c02e9be-940a-4cc7-90c4-35c9f47db3b4</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e567bf9b-9021-433f-9251-fe65d5ccaacc</id>
+      <masked>false</masked>
+      <name>baseEAUrl</name>
+   </variable>
+</TestCaseEntity>

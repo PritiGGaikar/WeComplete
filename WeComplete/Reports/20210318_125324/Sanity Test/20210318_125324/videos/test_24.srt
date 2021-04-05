@@ -1,0 +1,52 @@
+1
+00:00:00,109 --> 00:00:00,110
+3. Verify that External Contact tab is Present
+
+2
+00:00:06,012 --> 00:00:06,012
+3. Enter message
+
+3
+00:00:12,759 --> 00:00:12,759
+9. Click on send button
+
+4
+00:00:13,261 --> 00:00:13,261
+15. Click on Document Request tab
+
+5
+00:00:16,127 --> 00:00:16,127
+21. Enter message document request tab
+
+6
+00:00:23,066 --> 00:00:23,066
+27. Click on send button
+
+7
+00:00:23,552 --> 00:00:23,552
+33. Verify that Document request successfully text .
+
+8
+00:00:26,631 --> 00:00:26,631
+39. Click on Ok button
+
+9
+00:00:27,080 --> 00:00:27,080
+45. Click on Back to calendar btn
+
+10
+00:00:27,820 --> 00:00:27,820
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:27,820 --> 00:00:27,821
+5. println(testCaseContext.getTestCaseStatus())
+
+12
+00:00:29,881 --> 00:00:29,881
+1. println(testCaseContext.getTestCaseId())
+
+13
+00:00:29,882 --> 00:00:29,882
+5. println(testCaseContext.getTestCaseVariables())
+

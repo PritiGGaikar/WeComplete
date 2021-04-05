@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_Buying</name>
+   <tag></tag>
+   <elementGuidId>547b3d17-9ad2-4fe7-ba8a-8bab5ecd36a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='ng-star-inserted']//ul//li[2]//span[contains(text(),'Buying')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='ng-star-inserted']//ul//li[2]//span[contains(text(),'Buying')]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_032_Verify that Solicitor can send payment request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdc129ce-c285-4ff7-a589-d328fceafb1f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab306cc1-db4a-4aaf-94e3-49aecffd2dd2</id>
+      <masked>false</masked>
+      <name>requestAmount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40ef4d4e-83d2-4f7c-bf51-36277b290a4c</id>
+      <masked>false</masked>
+      <name>remark</name>
+   </variable>
+</TestCaseEntity>

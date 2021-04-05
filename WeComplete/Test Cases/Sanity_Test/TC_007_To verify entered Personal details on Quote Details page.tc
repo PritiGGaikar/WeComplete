@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007_To verify entered Personal details on Quote Details page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dff5a639-47ea-43a3-876f-40232f087ac9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5fb624b3-04e4-4675-8fe3-95c4c18be8d5</id>
+      <masked>false</masked>
+      <name>headerPropertyDetails</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7a051c2-43f4-4e88-ba68-e68069169656</id>
+      <masked>false</masked>
+      <name>primaryHFN</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52b0c306-b725-4933-93b7-38240241e172</id>
+      <masked>false</masked>
+      <name>primaryMNO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9609b97-9a2e-4bf9-806f-a4ab22a85db9</id>
+      <masked>false</masked>
+      <name>primaryEID</name>
+   </variable>
+</TestCaseEntity>

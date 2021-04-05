@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_016_Verify that User can view created quote on dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a33e1461-ecdf-4745-80b5-8efff95ce05e</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.buyer</defaultValue>
+      <description></description>
+      <id>578eefea-8ca2-4174-99cd-703b521e5b94</id>
+      <masked>false</masked>
+      <name>User1</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>24b176c2-981c-4e01-87cb-08c61b155598</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c4639f0-f6cd-46c6-8bad-952f1e208c07</id>
+      <masked>false</masked>
+      <name>headerDashboard</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58d5723e-3869-4c9b-b157-7030c2051621</id>
+      <masked>false</masked>
+      <name>firstPropertyDetails</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9501da3d-3b81-44c7-b139-b85e4957cbbb</id>
+      <masked>false</masked>
+      <name>secondPropertyDetails</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.baseEAUrl</defaultValue>
+      <description></description>
+      <id>438ac60d-d8be-4ae6-b168-757d52c43b18</id>
+      <masked>false</masked>
+      <name>baseEAUrl</name>
+   </variable>
+</TestCaseEntity>

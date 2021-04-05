@@ -1,0 +1,76 @@
+1
+00:00:00,134 --> 00:00:00,134
+3. Verify Document Sign button is clickable
+
+2
+00:00:12,982 --> 00:00:12,982
+3. Scroll to  Document Sign button 
+
+3
+00:00:13,226 --> 00:00:13,227
+9. Click on Document Sign button
+
+4
+00:00:16,969 --> 00:00:16,969
+15. Verify Document Sign pop is opened
+
+5
+00:00:17,418 --> 00:00:17,418
+3. Get Document Sig pop up header
+
+6
+00:00:17,877 --> 00:00:17,877
+9. Click on Me & others button
+
+7
+00:00:18,337 --> 00:00:18,338
+15. Enter Signer name or id
+
+8
+00:00:25,200 --> 00:00:25,201
+21. Click on Add as external button
+
+9
+00:00:30,950 --> 00:00:30,950
+25. directory = new java.io.File()
+
+10
+00:00:30,951 --> 00:00:30,951
+29. signDocument = directory.getAbsolutePath() + "\Data Files\Property Images\SignDocument.pdf"
+
+11
+00:00:30,952 --> 00:00:30,952
+33. out.println(signDocument)
+
+12
+00:00:30,953 --> 00:00:30,954
+39. Upload file
+
+13
+00:00:34,427 --> 00:00:34,427
+45. Click on Request Signature button
+
+14
+00:00:34,909 --> 00:00:34,909
+51. Verify Document signature requested successfully alter message
+
+15
+00:00:41,863 --> 00:00:41,863
+57. Clicon on Ok button
+
+16
+00:00:42,319 --> 00:00:42,319
+1. println(testCaseContext.getTestCaseId())
+
+17
+00:00:42,320 --> 00:00:42,320
+5. println(testCaseContext.getTestCaseStatus())
+
+18
+00:00:44,359 --> 00:00:44,359
+1. println(testCaseContext.getTestCaseId())
+
+19
+00:00:44,359 --> 00:00:44,359
+5. println(testCaseContext.getTestCaseVariables())
+

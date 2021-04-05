@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_018_To check updated property details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>462aadda-ae14-4b00-a269-f0fbf2e9671b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fbb08aee-b2b8-4575-9353-5c42c6d75e0a</id>
+      <masked>false</masked>
+      <name>buyPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8df80546-8cc4-40b8-9b5b-06db708da989</id>
+      <masked>false</masked>
+      <name>titleNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30a32c18-f30b-46f3-ae70-cabd229ed7bf</id>
+      <masked>false</masked>
+      <name>uprn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6af72224-a3a4-4879-bf69-ff80d2116d5b</id>
+      <masked>false</masked>
+      <name>localAuthority</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6145179a-b5ec-4f6a-85a4-29c0a6d4384c</id>
+      <masked>false</masked>
+      <name>floodRisk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c1b34b9-33ad-49bc-b6dc-7ed87d5997d5</id>
+      <masked>false</masked>
+      <name>plotSize</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47f494d2-3a66-47d9-aefc-d7c98f3cd225</id>
+      <masked>false</masked>
+      <name>summary</name>
+   </variable>
+</TestCaseEntity>

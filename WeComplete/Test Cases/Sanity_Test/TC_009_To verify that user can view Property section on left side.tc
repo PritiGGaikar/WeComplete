@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_009_To verify that user can view Property section on left side</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>048ab608-9bd3-41a9-a9ea-8d448d6085f5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d89e4cab-9292-44f7-9aa9-67b35f1c87f6</id>
+      <masked>false</masked>
+      <name>heradrPropertyDetails</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>162763bd-75b3-4525-bcc9-76167323f302</id>
+      <masked>false</masked>
+      <name>sellPricetext</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdba4477-98fd-46a8-9133-91c516fb1ea4</id>
+      <masked>false</masked>
+      <name>sellPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>accdcf58-5477-45ca-9fa0-30b4b9f0d4d6</id>
+      <masked>false</masked>
+      <name>sellComments</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf5448c1-49e8-4832-94b0-e4690c575396</id>
+      <masked>false</masked>
+      <name>buyPricetext</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5df158dc-a39f-4e64-a107-c121a53c044a</id>
+      <masked>false</masked>
+      <name>buyPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a160141a-394e-4e27-9c23-e791f26cf8d8</id>
+      <masked>false</masked>
+      <name>buyComments</name>
+   </variable>
+</TestCaseEntity>

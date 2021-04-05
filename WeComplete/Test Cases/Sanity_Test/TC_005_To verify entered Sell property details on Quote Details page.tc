@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_To verify entered Sell property details on Quote Details page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2254209-82e8-4984-96b6-57d5777d2946</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cb62207e-31cd-4e49-b622-9f0755ef92bb</id>
+      <masked>false</masked>
+      <name>sellCurrency</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa66eb73-c1b9-477a-bc97-f332d81cb0f5</id>
+      <masked>false</masked>
+      <name>sellPropertyPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d604960c-ebc3-4458-9be2-94cc30922268</id>
+      <masked>false</masked>
+      <name>postCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ddfb194-ed14-4e24-9f84-495f3e021b7b</id>
+      <masked>false</masked>
+      <name>sellPropertyComments</name>
+   </variable>
+   <variable>
+      <defaultValue>'Quote Details'</defaultValue>
+      <description></description>
+      <id>622aae2d-0473-46cb-a4d2-25fb38b6ea66</id>
+      <masked>false</masked>
+      <name>headerQuotePreview</name>
+   </variable>
+</TestCaseEntity>

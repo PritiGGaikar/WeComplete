@@ -1,0 +1,80 @@
+1
+00:00:00,129 --> 00:00:00,130
+3. Verify created property is presenet
+
+2
+00:00:02,517 --> 00:00:02,517
+3. Click on Created property
+
+3
+00:00:02,770 --> 00:00:02,770
+9. Verify Deal status page is opened
+
+4
+00:00:18,030 --> 00:00:18,031
+3. Click on Edit button
+
+5
+00:00:18,289 --> 00:00:18,289
+9. Verify property details header
+
+6
+00:00:18,948 --> 00:00:18,948
+15. Re-enter property Price
+
+7
+00:00:25,898 --> 00:00:25,898
+21. Enter UPRN
+
+8
+00:00:32,630 --> 00:00:32,631
+27. Enter Title number
+
+9
+00:00:39,367 --> 00:00:39,368
+33. Enter Local Authority
+
+10
+00:00:46,098 --> 00:00:46,098
+39. Enter Flood Risk
+
+11
+00:00:52,835 --> 00:00:52,836
+45. Enter Plot Size
+
+12
+00:00:59,543 --> 00:00:59,543
+51. Enter Summary
+
+13
+00:01:06,253 --> 00:01:06,253
+57. Click on Update
+
+14
+00:01:06,742 --> 00:01:06,743
+63. Verify alert pop up Details Updated successfully
+
+15
+00:01:11,151 --> 00:01:11,151
+69. Click on Ok
+
+16
+00:01:11,611 --> 00:01:11,612
+75. Verify Deal status page opened
+
+17
+00:01:12,465 --> 00:01:12,465
+1. println(testCaseContext.getTestCaseId())
+
+18
+00:01:12,466 --> 00:01:12,466
+5. println(testCaseContext.getTestCaseStatus())
+
+19
+00:01:14,551 --> 00:01:14,551
+1. println(testCaseContext.getTestCaseId())
+
+20
+00:01:14,552 --> 00:01:14,552
+5. println(testCaseContext.getTestCaseVariables())
+

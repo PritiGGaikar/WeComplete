@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_035_Verify user can add Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58ffe11f-4b2b-4d35-a0aa-c257d8069780</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>844ed345-ed41-4b2b-bad6-961e53b366d1</id>
+      <masked>false</masked>
+      <name>time</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d431a22-64de-4cb5-9b17-7724782a7f30</id>
+      <masked>false</masked>
+      <name>eventTitle</name>
+   </variable>
+</TestCaseEntity>

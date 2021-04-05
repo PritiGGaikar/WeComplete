@@ -1,0 +1,24 @@
+1
+00:00:00,114 --> 00:00:00,115
+3. Verify AML button is clickable
+
+2
+00:00:43,137 --> 00:00:43,137
+2. out.print("Verify AML button is not clickable")
+
+3
+00:00:43,140 --> 00:00:43,140
+1. println(testCaseContext.getTestCaseId())
+
+4
+00:00:43,140 --> 00:00:43,140
+5. println(testCaseContext.getTestCaseStatus())
+
+5
+00:00:45,218 --> 00:00:45,218
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:45,219 --> 00:00:45,219
+5. println(testCaseContext.getTestCaseVariables())
+

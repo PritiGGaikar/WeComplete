@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buying Property Deatils</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6aa5bb0-7126-43e6-a45d-dbdc2054262c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa346502-2726-48ed-9a5d-f9f9f2d193db</id>
+      <masked>false</masked>
+      <name>buylPropertyHeader</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6fd7246a-a83e-4ea8-a2e4-cc43ac7f1ada</id>
+      <masked>false</masked>
+      <name>buyPropertyPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5bd60338-a074-4356-8ee9-6f8bbacc3dca</id>
+      <masked>false</masked>
+      <name>postCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9e1fefb-7ced-4dda-bd76-5071e3d2d24b</id>
+      <masked>false</masked>
+      <name>houseNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8dab2125-f1da-4908-beab-051e32393afa</id>
+      <masked>false</masked>
+      <name>streetName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13aed1a4-666c-4dde-9c12-4ce5cf9bb10d</id>
+      <masked>false</masked>
+      <name>buyPropertyComments</name>
+   </variable>
+</TestCaseEntity>

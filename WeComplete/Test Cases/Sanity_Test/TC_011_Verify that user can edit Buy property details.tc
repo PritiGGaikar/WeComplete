@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_Verify that user can edit Buy property details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89297a93-22ad-4c57-8be7-f5c9af1dcb0a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2cb189d-4e2d-4226-aca2-a3c38d4e4668</id>
+      <masked>false</masked>
+      <name>editBuyPrice</name>
+   </variable>
+</TestCaseEntity>

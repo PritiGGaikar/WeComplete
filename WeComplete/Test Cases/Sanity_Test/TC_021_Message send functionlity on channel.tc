@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can send message, Upload document &amp; send the request document  into the channel</description>
+   <name>TC_021_Message send functionlity on channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cf6648a-6825-4ab2-b1a8-98527edcb270</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08ee2174-3e59-4346-9350-07990145a75c</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba8da561-79e7-49b4-8381-309724b3b881</id>
+      <masked>false</masked>
+      <name>documentRequest</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75dc21bd-56cc-412d-88da-064eceac1791</id>
+      <masked>false</masked>
+      <name>docRequestMSG</name>
+   </variable>
+</TestCaseEntity>

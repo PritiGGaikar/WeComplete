@@ -1,0 +1,72 @@
+1
+00:00:00,120 --> 00:00:00,120
+3. Verify Request a Payment button is clickable
+
+2
+00:00:33,867 --> 00:00:33,867
+3. Scroll to Request a Payment button 
+
+3
+00:00:34,111 --> 00:00:34,112
+9. Click on Request a Payment button
+
+4
+00:00:34,435 --> 00:00:34,435
+15. Verify Payment tab is visible
+
+5
+00:00:37,224 --> 00:00:37,224
+3. Click on Service drop down
+
+6
+00:00:41,138 --> 00:00:41,138
+9. Selecte  Additional Payment service from drop down
+
+7
+00:00:41,600 --> 00:00:41,600
+15. Enter Amount to request
+
+8
+00:00:48,812 --> 00:00:48,813
+21. Enter Amount to request
+
+9
+00:00:55,556 --> 00:00:55,556
+27. Verify Add Request  button is clickable
+
+10
+00:00:56,000 --> 00:00:56,001
+3. Click on Add request button
+
+11
+00:00:56,266 --> 00:00:56,266
+9. Click on Request Payment button
+
+12
+00:00:57,136 --> 00:00:57,136
+15. Verify on Pop up Successful message
+
+13
+00:01:04,287 --> 00:01:04,288
+21. Click on Ok button
+
+14
+00:01:04,749 --> 00:01:04,749
+27. Click on Back to calendar btn
+
+15
+00:01:05,538 --> 00:01:05,539
+1. println(testCaseContext.getTestCaseId())
+
+16
+00:01:05,539 --> 00:01:05,539
+5. println(testCaseContext.getTestCaseStatus())
+
+17
+00:01:07,611 --> 00:01:07,611
+1. println(testCaseContext.getTestCaseId())
+
+18
+00:01:07,612 --> 00:01:07,612
+5. println(testCaseContext.getTestCaseVariables())
+

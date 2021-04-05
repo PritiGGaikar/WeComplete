@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006_To verify entered Buy Property details on Quote Details page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e40ea070-3e01-4486-a7ab-df8990be6690</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>946ae650-a634-431c-a8bd-16195676e114</id>
+      <masked>false</masked>
+      <name>buyCurrency</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d154bbc5-08b5-4859-84e7-158ecacb8c5e</id>
+      <masked>false</masked>
+      <name>buyPropertyPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9b9ab0a-c7d4-4603-9337-07fa50a690d9</id>
+      <masked>false</masked>
+      <name>postCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>348baff4-b3d0-4352-9c57-ae0a7a52d54f</id>
+      <masked>false</masked>
+      <name>buyPropertyComments</name>
+   </variable>
+</TestCaseEntity>

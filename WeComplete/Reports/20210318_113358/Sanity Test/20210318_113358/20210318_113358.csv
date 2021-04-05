@@ -1,0 +1,204 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sanity Test,Firefox 87.0,,,2021-03-18 11:34:06,2021-03-18 11:47:39,13m - 33.197s,FAILED
+,,,,,,,
+Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form,Firefox 87.0,,,2021-03-18 11:34:27,2021-03-18 11:35:24,56.353s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:34:27,2021-03-18 11:34:27,0.020s,PASSED
+"navigateToUrl(baseurl + ""/legal"", STOP_ON_FAILURE)",Firefox 87.0,Navigate to legal URL,,2021-03-18 11:34:31,2021-03-18 11:34:39,7.581s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Quote/header_Quote""), shortTime)",Firefox 87.0,Verify Quote page header,,2021-03-18 11:34:39,2021-03-18 11:34:42,3.573s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/tab_Selling_and_Buying""), shortTime) == true)",Firefox 87.0,Verify sell Property tab is visible,,2021-03-18 11:34:42,2021-03-18 11:35:22,39.249s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:35:22,2021-03-18 11:35:22,0.035s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:35:24,2021-03-18 11:35:24,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form,Firefox 87.0,,,2021-03-18 11:35:24,2021-03-18 11:36:05,41.386s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:35:24,2021-03-18 11:35:24,0.020s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Quote/Selling_Property_Details_Page/header_Buying Property Details""), shortTime) == true)",Firefox 87.0,Verify sell Property tab is visible,,2021-03-18 11:35:24,2021-03-18 11:36:03,38.699s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:36:03,2021-03-18 11:36:03,0.002s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:36:05,2021-03-18 11:36:05,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details,Firefox 87.0,,,2021-03-18 11:36:05,2021-03-18 11:37:06,1m - 0.982s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:36:05,2021-03-18 11:36:05,0.001s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Quote/Personal_Details_Page/step_Personal_Details_Page""), shortTime)",Firefox 87.0,Verify that Personal Details progress step,,2021-03-18 11:36:06,2021-03-18 11:36:06,0.652s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details""), shortTime) == true)",Firefox 87.0,Verify  Primary Contact Details header is visible,,2021-03-18 11:36:06,2021-03-18 11:37:04,57.847s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:37:04,2021-03-18 11:37:04,0.000s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:37:06,2021-03-18 11:37:06,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details,Firefox 87.0,,,2021-03-18 11:37:06,2021-03-18 11:37:31,25.088s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:37:06,2021-03-18 11:37:06,0.016s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/Correspondence_Address_Page/progressStep_Correspondence Address""), shortTime)",Firefox 87.0,Verify that Correspondence Address progress step,,2021-03-18 11:37:07,2021-03-18 11:37:07,0.650s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/Correspondence_Address_Page/header_Correspondence Address""), shortTime) == true)",Firefox 87.0,Verify Correspondence Address is visible,,2021-03-18 11:37:07,2021-03-18 11:37:29,21.962s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:37:29,2021-03-18 11:37:29,0.005s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:37:31,2021-03-18 11:37:31,0.002s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page,Firefox 87.0,,,2021-03-18 11:37:31,2021-03-18 11:37:39,7.770s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:37:31,2021-03-18 11:37:31,0.016s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/Quote_Details_Page/Progress_Step_Quote_Details""), shortTime)",Firefox 87.0,Verify Quote details step ,,2021-03-18 11:37:32,2021-03-18 11:37:33,0.656s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Quote/Quote_Details_Page/header_Quote_Details""), shortTime) == true)",Firefox 87.0,Verify Quote Details  page is visible,,2021-03-18 11:37:33,2021-03-18 11:37:37,4.350s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:37:37,2021-03-18 11:37:37,0.003s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:37:39,2021-03-18 11:37:39,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page,Firefox 87.0,,,2021-03-18 11:37:39,2021-03-18 11:37:45,5.309s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:37:39,2021-03-18 11:37:39,0.000s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Currency""), buyCurrency)",Firefox 87.0,Verify Buy Currency ,,2021-03-18 11:37:40,2021-03-18 11:37:40,0.636s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Price""), buyPropertyPrice)",Firefox 87.0,Verify Buying Property Value,,2021-03-18 11:37:40,2021-03-18 11:37:41,0.754s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Post_Code""), postCode)",Firefox 87.0,Verify Buying Property Post code,,2021-03-18 11:37:41,2021-03-18 11:37:42,0.754s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Comments""), buyPropertyComments)",Firefox 87.0,Verify Buying Property Comments,,2021-03-18 11:37:42,2021-03-18 11:37:43,0.763s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:37:43,2021-03-18 11:37:43,0.017s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:37:45,2021-03-18 11:37:45,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page,Firefox 87.0,,,2021-03-18 11:37:45,2021-03-18 11:37:50,5.239s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:37:45,2021-03-18 11:37:45,0.005s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Personal_Details_Section/header_Personal_Details""), headerPropertyDetails)",Firefox 87.0,Verify Personal Details section on Quote Details page,,2021-03-18 11:37:45,2021-03-18 11:37:46,0.644s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Personal_Details_Section/get_PrimaryFN""), primaryHFN)",Firefox 87.0,Verify Personal Details section on Quote Details page,,2021-03-18 11:37:46,2021-03-18 11:37:46,0.765s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Personal_Details_Section/get_PrimaryMNO""), primaryMNO)",Firefox 87.0,Verify Primary holder Mobile number on Quote Details page,,2021-03-18 11:37:46,2021-03-18 11:37:47,0.780s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Personal_Details_Section/get_PrimaryEID""), primaryEID)",Firefox 87.0,Verify Primary holder Email Id on Quote Details page,,2021-03-18 11:37:47,2021-03-18 11:37:48,0.739s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:37:48,2021-03-18 11:37:48,0.000s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:37:50,2021-03-18 11:37:50,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page,Firefox 87.0,,,2021-03-18 11:37:50,2021-03-18 11:37:55,4.970s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:37:50,2021-03-18 11:37:50,0.000s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Corresponding_Address_Section/get_header_Correspondence Address""), headerAddress)",Firefox 87.0,Verify header Correspondence Address on Quote Details page,,2021-03-18 11:37:50,2021-03-18 11:37:51,0.645s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Corresponding_Address_Section/get_Post_Code""), postCode)",Firefox 87.0,Verify  Correspondence Address PostCode on Quote Details page,,2021-03-18 11:37:51,2021-03-18 11:37:52,0.754s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/Quote_Details_Page/Corresponding_Address_Section/get_Address""), address)",Firefox 87.0,Verify  Correspondence Address on Quote Details page,,2021-03-18 11:37:52,2021-03-18 11:37:52,0.757s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Quote/Quote_Details_Page/btn_Get_Quote""), shortTime)",Firefox 87.0,click on Get Quote Button,,2021-03-18 11:37:52,2021-03-18 11:37:53,0.477s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:37:53,2021-03-18 11:37:53,0.001s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:37:55,2021-03-18 11:37:55,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side,Firefox 87.0,,,2021-03-18 11:37:55,2021-03-18 11:38:06,11.392s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:37:55,2021-03-18 11:37:55,0.000s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/header_Pricecompare_Page""), shortTime)",Firefox 87.0,Verify Conveyancing Page header,,2021-03-18 11:37:55,2021-03-18 11:37:56,0.899s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/Property_Section/header_Property Details""), shortTime) == true)",Firefox 87.0,Verify Property Details is visible,,2021-03-18 11:37:56,2021-03-18 11:38:04,8.100s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:38:04,2021-03-18 11:38:04,0.001s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:38:06,2021-03-18 11:38:06,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details,Firefox 87.0,,,2021-03-18 11:38:06,2021-03-18 11:38:23,16.681s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:38:07,2021-03-18 11:38:07,0.006s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Quote/PriceCompare_Page/Property_Section/toggle_Sell""), shortTime)",Firefox 87.0,Click on Sell toggle,,2021-03-18 11:38:07,2021-03-18 11:38:07,0.349s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Quote/PriceCompare_Page/Property_Section/btn_Edit the info""), shortTime)",Firefox 87.0,Click on Edit the Info button,,2021-03-18 11:38:07,2021-03-18 11:38:08,0.524s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/Property_Section/header_Sell and Buy pop up""), shortTime) == true)",Firefox 87.0,Verify Selling & Buying  pop up is opened,,2021-03-18 11:38:08,2021-03-18 11:38:21,13.349s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:38:21,2021-03-18 11:38:21,0.009s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:38:23,2021-03-18 11:38:23,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details,Firefox 87.0,,,2021-03-18 11:38:23,2021-03-18 11:38:40,17.004s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:38:23,2021-03-18 11:38:23,0.048s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Object Repository/Quote/PriceCompare_Page/Property_Section/toggle_Buy""), shortTime)",Firefox 87.0,Click on Buy toggle,,2021-03-18 11:38:24,2021-03-18 11:38:24,0.397s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Quote/PriceCompare_Page/Property_Section/btn_Edit the info""), shortTime)",Firefox 87.0,Click on Edit the Info button,,2021-03-18 11:38:24,2021-03-18 11:38:25,1.114s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/Property_Section/header_Sell and Buy pop up""), shortTime) == true)",Firefox 87.0,Verify Selling& Buying Property pop up header,,2021-03-18 11:38:25,2021-03-18 11:38:38,13.043s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:38:38,2021-03-18 11:38:38,0.007s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:38:40,2021-03-18 11:38:40,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure,Firefox 87.0,,,2021-03-18 11:38:40,2021-03-18 11:38:52,11.403s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:38:40,2021-03-18 11:38:40,0.000s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/text_Total Fees""), shortTime) == true)",Firefox 87.0, Verify Total fee text is present,,2021-03-18 11:38:41,2021-03-18 11:38:50,9.003s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:38:50,2021-03-18 11:38:50,0.004s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:38:52,2021-03-18 11:38:52,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure,Firefox 87.0,,,2021-03-18 11:38:52,2021-03-18 11:39:00,8.532s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:38:52,2021-03-18 11:38:52,0.011s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Quote/PriceCompare_Page/Fees_Table/Buy_Fee_toggle_on_Table""), shortTime)",Firefox 87.0,Click on Buy Fee toggle,,2021-03-18 11:38:52,2021-03-18 11:38:53,0.363s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/Sell_Buy_Fees_On_Table""), shortTime)",Firefox 87.0,Verify Transaction of Buy price is present,,2021-03-18 11:38:53,2021-03-18 11:38:53,0.742s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/PriceCompare_Page/Fees_Table/Column_Professional Fees""), professionalFees)",Firefox 87.0,Verify  Professional Fees Column,,2021-03-18 11:38:53,2021-03-18 11:38:54,0.728s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/PriceCompare_Page/Fees_Table/column_NET""), net)",Firefox 87.0,Verify  NET Fees Column ,,2021-03-18 11:38:54,2021-03-18 11:38:55,0.744s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/PriceCompare_Page/Fees_Table/column_VAT""), vat)",Firefox 87.0,Verify  VAT Fees Column,,2021-03-18 11:38:55,2021-03-18 11:38:56,0.759s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/PriceCompare_Page/Fees_Table/column_GROSS""), gross)",Firefox 87.0,Verify  Gross Fees Column,,2021-03-18 11:38:56,2021-03-18 11:38:56,0.734s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/PriceCompare_Page/Fees_Table/column_Third Party Disbursements""), thirdPartyDisbursements)",Firefox 87.0,Verify Third Party Disbursements column,,2021-03-18 11:38:56,2021-03-18 11:38:57,0.772s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Quote/PriceCompare_Page/Fees_Table/column_Stamp duty""), stampDuty)",Firefox 87.0,Verify Third Party Disbursements column,,2021-03-18 11:38:57,2021-03-18 11:38:58,0.712s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Quote/PriceCompare_Page/Fees_Table/btn_Close Icon""), shortTime)",Firefox 87.0,,,2021-03-18 11:38:58,2021-03-18 11:38:58,0.496s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:38:58,2021-03-18 11:38:58,0.016s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:39:00,2021-03-18 11:39:00,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_014_Verify that email quote functionality,Firefox 87.0,,,2021-03-18 11:39:00,2021-03-18 11:39:28,27.267s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:39:00,2021-03-18 11:39:00,0.016s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/btn_Email Quote""), shortTime) == true)",Firefox 87.0,Verify Email Quote button is present,,2021-03-18 11:39:01,2021-03-18 11:39:26,24.877s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:39:26,2021-03-18 11:39:26,0.001s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:39:28,2021-03-18 11:39:28,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote,Firefox 87.0,,,2021-03-18 11:39:28,2021-03-18 11:40:07,38.762s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:39:28,2021-03-18 11:39:28,0.000s,PASSED
+"com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/header_Pricecompare_Page""), shortTime)",Firefox 87.0,Verify Conveyancing Page header,,2021-03-18 11:39:28,2021-03-18 11:39:29,0.701s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Quote/PriceCompare_Page/btn_Instruct Us""), shortTime) == true)",Firefox 87.0,Verify Instruct us button is present,,2021-03-18 11:39:29,2021-03-18 11:40:04,35.686s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:40:04,2021-03-18 11:40:04,0.002s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:40:07,2021-03-18 11:40:07,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard,Firefox 87.0,,,2021-03-18 11:40:07,2021-03-18 11:40:53,46.352s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:40:07,2021-03-18 11:40:07,0.016s,PASSED
+"callTestCase(findTestCase(""common_test _cases/login_Page""), [""headerDashboard"":headerDashboard, ""loginId"":User1, ""Password"":Password], STOP_ON_FAILURE)",Firefox 87.0,,,2021-03-18 11:40:07,2021-03-18 11:40:43,36.262s,PASSED
+waitForPageLoad(longTime),Firefox 87.0,,,2021-03-18 11:40:43,2021-03-18 11:40:44,0.346s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/Dashborad/hedaer_Your Recent Propertie""), shortTime) == true)",Firefox 87.0,,,2021-03-18 11:40:44,2021-03-18 11:40:51,7.209s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:40:51,2021-03-18 11:40:51,0.047s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:40:53,2021-03-18 11:40:53,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_017_Verify that user can update Property details,Firefox 87.0,,,2021-03-18 11:40:53,2021-03-18 11:42:10,1m - 16.500s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:40:53,2021-03-18 11:40:53,0.017s,PASSED
+"if (verifyElementPresent(findTestObject(""Dashborad/get_first_Quote_on_tab""), shortTime) == true)",Firefox 87.0,Verify created property is presenet,,2021-03-18 11:40:54,2021-03-18 11:42:08,1m - 13.678s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:42:08,2021-03-18 11:42:08,0.003s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:42:10,2021-03-18 11:42:10,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_018_To check updated property details,Firefox 87.0,,,2021-03-18 11:42:10,2021-03-18 11:42:18,7.651s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:42:10,2021-03-18 11:42:10,0.000s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_Agreed_Price""), buyPrice)",Firefox 87.0,Verify updated Agreed Price,,2021-03-18 11:42:10,2021-03-18 11:42:11,0.642s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_Title Number""), titleNumber)",Firefox 87.0,Verify updated Title Number,,2021-03-18 11:42:11,2021-03-18 11:42:12,0.747s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_UPRN""), uprn)",Firefox 87.0,Verify updated UPRN,,2021-03-18 11:42:12,2021-03-18 11:42:13,0.750s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_Local Authority""), localAuthority)",Firefox 87.0,Verify updated Local Authority,,2021-03-18 11:42:13,2021-03-18 11:42:13,0.764s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_Flood Risk""), floodRisk)",Firefox 87.0,Verify updated Flood Risk,,2021-03-18 11:42:13,2021-03-18 11:42:14,0.750s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_Plot Size""), plotSize)",Firefox 87.0,Verify updated Plot Size,,2021-03-18 11:42:14,2021-03-18 11:42:15,0.761s,PASSED
+"com.wecomplete.keywords.TestBase.getText(findTestObject(""Object Repository/Deal Status/Property Details Section/get_Summary""), summary)",Firefox 87.0,Verify updated Summary,,2021-03-18 11:42:15,2021-03-18 11:42:16,0.757s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:42:16,2021-03-18 11:42:16,0.000s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:42:18,2021-03-18 11:42:18,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_019_Verify that user can view Section,Firefox 87.0,"Verify that user can view Channels, Direct messages , External contacts ,Pending Invitations ,Archives , Invite People tabs on message section",,2021-03-18 11:42:18,2021-03-18 11:42:25,7.568s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:42:18,2021-03-18 11:42:18,0.000s,PASSED
+"if (verifyElementPresent(findTestObject(""Deal Status/Message_Section/tab_Messages""), shortTime) == true)",Firefox 87.0,Message section is visible,,2021-03-18 11:42:18,2021-03-18 11:42:23,5.171s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:42:23,2021-03-18 11:42:23,0.006s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:42:25,2021-03-18 11:42:25,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality,Firefox 87.0,,,2021-03-18 11:42:25,2021-03-18 11:42:42,16.952s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:42:25,2021-03-18 11:42:25,0.016s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Deal Status/Message_Section/Channels/btn_Create_channel""), shortTime)",Firefox 87.0,Click on “+” icon on channels tab,,2021-03-18 11:42:26,2021-03-18 11:42:26,0.426s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Object Repository/Deal Status/Message_Section/Channels/title_Create_channel""), shortTime) == true)",Firefox 87.0,Verify Create a channel  pop up is opened,,2021-03-18 11:42:26,2021-03-18 11:42:40,14.174s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:42:40,2021-03-18 11:42:40,0.000s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:42:42,2021-03-18 11:42:42,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_021_Message send functionlity on channel,Firefox 87.0,"Verify that the user can send message, Upload document & send the request document  into the channel",,2021-03-18 11:42:42,2021-03-18 11:43:29,46.770s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:42:42,2021-03-18 11:42:42,0.003s,PASSED
+"if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject(""Deal Status/Message_Section/Channels/get_Channel""), shortTime) == true)",Firefox 87.0,Verify channel is present,,2021-03-18 11:42:43,2021-03-18 11:43:27,44.284s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:43:27,2021-03-18 11:43:27,0.010s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:43:29,2021-03-18 11:43:29,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member,Firefox 87.0,,,2021-03-18 11:43:29,2021-03-18 11:44:06,36.501s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:43:29,2021-03-18 11:43:29,0.000s,PASSED
+"if (verifyElementPresent(findTestObject(""Deal Status/Message_Section/Direct Messages section/tab_Direct Messages""), shortTime) == true)",Firefox 87.0,Verify that Direct message is Present,,2021-03-18 11:43:29,2021-03-18 11:44:03,34.033s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:44:03,2021-03-18 11:44:03,0.001s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:44:06,2021-03-18 11:44:06,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact,Firefox 87.0,,,2021-03-18 11:44:06,2021-03-18 11:44:25,19.854s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:44:06,2021-03-18 11:44:06,0.000s,PASSED
+"if (verifyElementPresent(findTestObject(""Deal Status/Message_Section/External_Contact _Section/tab_External Contacts""), shortTime) == true)",Firefox 87.0,Verify that External Contact tab is Present,,2021-03-18 11:44:06,2021-03-18 11:44:23,17.479s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:44:23,2021-03-18 11:44:23,0.000s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:44:25,2021-03-18 11:44:25,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member,Firefox 87.0,,,2021-03-18 11:44:25,2021-03-18 11:44:57,31.364s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:44:25,2021-03-18 11:44:25,0.004s,PASSED
+"if (verifyElementVisible(findTestObject(""Object Repository/Deal Status/Message_Section/Channels/input_Compose"")) == true)",Firefox 87.0,Verify that External Contact tab is Present,,2021-03-18 11:44:26,2021-03-18 11:44:55,28.327s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:44:55,2021-03-18 11:44:55,0.036s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:44:57,2021-03-18 11:44:57,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent,Firefox 87.0,,,2021-03-18 11:44:57,2021-03-18 11:47:10,2m - 12.642s,FAILED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:44:57,2021-03-18 11:44:57,0.000s,PASSED
+"callTestCase(findTestCase(""common_test _cases/do_sign out""), [:], CONTINUE_ON_FAILURE)",Firefox 87.0,,,2021-03-18 11:44:57,2021-03-18 11:45:38,40.728s,FAILED
+"callTestCase(findTestCase(""common_test _cases/login_Page""), [""headerDashboard"":headerDashboard, ""loginId"":EA1, ""Password"":Password], STOP_ON_FAILURE)",Firefox 87.0,,,2021-03-18 11:45:38,2021-03-18 11:46:12,33.594s,PASSED
+waitForPageLoad(longTime),Firefox 87.0,,,2021-03-18 11:46:12,2021-03-18 11:46:12,0.017s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/Dashborad/tab_Quotes Accepted""), shortTime) == true)",Firefox 87.0,Visiable Quote Accepted tab ,,2021-03-18 11:46:12,2021-03-18 11:47:07,55.553s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:47:07,2021-03-18 11:47:07,0.005s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:47:10,2021-03-18 11:47:10,0.001s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_026_Verify that user can Invite People,Firefox 87.0,,,2021-03-18 11:47:10,2021-03-18 11:47:34,24.740s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:47:10,2021-03-18 11:47:10,0.000s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/Deal Status/Message_Section/Invite_Section/tab_Invite People""), shortTime) == true)",Firefox 87.0,Verify that Invite people tab is Present,,2021-03-18 11:47:10,2021-03-18 11:47:32,22.258s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:47:32,2021-03-18 11:47:32,0.001s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:47:34,2021-03-18 11:47:34,0.000s,PASSED
+,,,,,,,
+Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab,Firefox 87.0,,,2021-03-18 11:47:34,2021-03-18 11:47:39,5.080s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-03-18 11:47:34,2021-03-18 11:47:34,0.000s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/Deal Status/Message_Section/tab_Pending Invitations""), shortTime) == true)",Firefox 87.0,Verify that Invite people tab is Present,,2021-03-18 11:47:35,2021-03-18 11:47:37,2.728s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-03-18 11:47:37,2021-03-18 11:47:37,0.001s,PASSED
+Video,Firefox 87.0,,,2021-03-18 11:47:39,2021-03-18 11:47:39,0.001s,PASSED

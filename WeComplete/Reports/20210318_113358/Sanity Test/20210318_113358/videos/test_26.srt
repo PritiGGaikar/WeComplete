@@ -1,0 +1,60 @@
+1
+00:00:00,398 --> 00:00:00,398
+3. Verify that Invite people tab is Present
+
+2
+00:00:00,795 --> 00:00:00,796
+3. Click on Add Invite People
+
+3
+00:00:01,229 --> 00:00:01,262
+9. Verify that Invite People pop up title
+
+4
+00:00:01,663 --> 00:00:01,664
+3. Verify Invite People pop up title 
+
+5
+00:00:02,297 --> 00:00:02,297
+9. Enter email address
+
+6
+00:00:09,598 --> 00:00:09,599
+15. Select Role Drop down
+
+7
+00:00:10,120 --> 00:00:10,121
+21. Select Role drop down value
+
+8
+00:00:10,895 --> 00:00:10,895
+27. Enter Name
+
+9
+00:00:18,057 --> 00:00:18,058
+33. Click on Send Invitation button
+
+10
+00:00:18,604 --> 00:00:18,604
+39. Verify that Document request successfully text .
+
+11
+00:00:22,171 --> 00:00:22,174
+45. Click on Ok button
+
+12
+00:00:22,657 --> 00:00:22,657
+1. println(testCaseContext.getTestCaseId())
+
+13
+00:00:22,657 --> 00:00:22,657
+5. println(testCaseContext.getTestCaseStatus())
+
+14
+00:00:24,774 --> 00:00:24,774
+1. println(testCaseContext.getTestCaseId())
+
+15
+00:00:24,774 --> 00:00:24,774
+5. println(testCaseContext.getTestCaseVariables())
+

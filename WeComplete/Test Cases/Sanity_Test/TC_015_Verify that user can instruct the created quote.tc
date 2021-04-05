@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_015_Verify that user can instruct the created quote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>719de0cf-3dc4-4802-8996-b9b763d04820</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d569f87-ee28-4015-aaa1-a40bfabf55b4</id>
+      <masked>false</masked>
+      <name>completestext</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0be60bb4-3419-4149-9887-80420a995b4c</id>
+      <masked>false</masked>
+      <name>instructusMSG</name>
+   </variable>
+</TestCaseEntity>

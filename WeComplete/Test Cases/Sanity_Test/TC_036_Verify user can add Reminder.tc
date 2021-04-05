@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_036_Verify user can add Reminder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>835d807d-57f8-40e7-bc59-f04b9aa38d8a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>378cd715-a328-4fe1-a013-9a4e29f22689</id>
+      <masked>false</masked>
+      <name>remindertTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8308c341-0a92-4508-b007-d6144b5b90bd</id>
+      <masked>false</masked>
+      <name>time</name>
+   </variable>
+</TestCaseEntity>

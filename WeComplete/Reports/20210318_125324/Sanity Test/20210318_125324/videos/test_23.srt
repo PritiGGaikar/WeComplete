@@ -1,0 +1,44 @@
+1
+00:00:00,106 --> 00:00:00,106
+3. Verify that External Contact tab is Present
+
+2
+00:00:01,553 --> 00:00:01,553
+3. Click on add External icon
+
+3
+00:00:01,812 --> 00:00:01,812
+9. Verify that External Contact pop up header
+
+4
+00:00:02,256 --> 00:00:02,257
+3. Verify External Contact pop up header text 
+
+5
+00:00:02,718 --> 00:00:02,718
+9. Enter External Id
+
+6
+00:00:09,669 --> 00:00:09,669
+15. Enter External Name
+
+7
+00:00:16,361 --> 00:00:16,361
+21. Click on Add button
+
+8
+00:00:16,814 --> 00:00:16,814
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:16,815 --> 00:00:16,815
+5. println(testCaseContext.getTestCaseStatus())
+
+10
+00:00:18,860 --> 00:00:18,860
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:18,861 --> 00:00:18,861
+5. println(testCaseContext.getTestCaseVariables())
+

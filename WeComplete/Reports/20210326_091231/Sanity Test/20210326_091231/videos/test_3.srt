@@ -1,0 +1,72 @@
+1
+00:00:00,121 --> 00:00:00,122
+3. Verify that Personal Details progress step
+
+2
+00:00:00,583 --> 00:00:00,583
+9. Verify  Primary Contact Details header is visible
+
+3
+00:00:01,243 --> 00:00:01,243
+1. com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details"), shortTime)
+
+4
+00:00:01,898 --> 00:00:01,898
+7. Enter first name
+
+5
+00:00:08,387 --> 00:00:08,387
+13. Enter Last name
+
+6
+00:00:15,070 --> 00:00:15,070
+19. Enter email id
+
+7
+00:00:21,770 --> 00:00:21,770
+25. Enter mobile number
+
+8
+00:00:28,455 --> 00:00:28,455
+31. Click on check box make same as Joint Seller 2
+
+9
+00:00:28,909 --> 00:00:28,909
+37. Verify Joint seller 2 Contact Details header
+
+10
+00:00:29,578 --> 00:00:29,583
+43. Enter Joint holder First Name
+
+11
+00:00:36,261 --> 00:00:36,261
+49. Enter Joint holder Last Name
+
+12
+00:00:42,943 --> 00:00:42,943
+55. Enter Joint holder Phone Number
+
+13
+00:00:49,638 --> 00:00:49,638
+61. Enter Joint holder Email id
+
+14
+00:00:56,344 --> 00:00:56,345
+67. Click on “Save&Next” button
+
+15
+00:00:56,792 --> 00:00:56,792
+1. println(testCaseContext.getTestCaseId())
+
+16
+00:00:56,792 --> 00:00:56,792
+5. println(testCaseContext.getTestCaseStatus())
+
+17
+00:00:58,846 --> 00:00:58,846
+1. println(testCaseContext.getTestCaseId())
+
+18
+00:00:58,847 --> 00:00:58,847
+5. println(testCaseContext.getTestCaseVariables())
+

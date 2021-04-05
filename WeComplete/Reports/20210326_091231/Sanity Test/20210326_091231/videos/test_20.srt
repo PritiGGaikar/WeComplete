@@ -1,0 +1,48 @@
+1
+00:00:00,110 --> 00:00:00,110
+3. Message section is visible
+
+2
+00:00:00,366 --> 00:00:00,366
+3. Verify Channels tab 
+
+3
+00:00:00,821 --> 00:00:00,821
+7. scrollToElement(findTestObject("Object Repository/Deal Status/Message_Section/tab_Channels"), shortTime)
+
+4
+00:00:01,272 --> 00:00:01,273
+13. Verify Direct messages tab
+
+5
+00:00:01,731 --> 00:00:01,731
+19. Verify  External contacts tab
+
+6
+00:00:02,388 --> 00:00:02,388
+25. Verify Pending Invitations tab
+
+7
+00:00:03,047 --> 00:00:03,047
+31. Verify Archives tab
+
+8
+00:00:03,707 --> 00:00:03,708
+37. Verify Invite People tab
+
+9
+00:00:04,366 --> 00:00:04,366
+1. println(testCaseContext.getTestCaseId())
+
+10
+00:00:04,367 --> 00:00:04,367
+5. println(testCaseContext.getTestCaseStatus())
+
+11
+00:00:06,395 --> 00:00:06,395
+1. println(testCaseContext.getTestCaseId())
+
+12
+00:00:06,396 --> 00:00:06,396
+5. println(testCaseContext.getTestCaseVariables())
+

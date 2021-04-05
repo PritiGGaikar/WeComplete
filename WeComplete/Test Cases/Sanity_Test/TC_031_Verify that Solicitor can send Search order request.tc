@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_031_Verify that Solicitor can send Search order request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbeb17b1-0804-4400-9fc5-41b1375b0b0b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>873afc6b-3ff3-47b1-b969-f6f16b1da7a3</id>
+      <masked>false</masked>
+      <name>headerSearchOrder</name>
+   </variable>
+</TestCaseEntity>

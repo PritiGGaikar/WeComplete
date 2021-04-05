@@ -1,0 +1,28 @@
+1
+00:00:00,166 --> 00:00:00,166
+3. Verify that Invite people tab is Present
+
+2
+00:00:00,412 --> 00:00:00,413
+3. Verify that penting invitation tab
+
+3
+00:00:00,902 --> 00:00:00,902
+9. Click on Pending invitation tab
+
+4
+00:00:01,355 --> 00:00:01,355
+15. Verify that invited member displayed on pending tab
+
+5
+00:00:44,384 --> 00:00:44,385
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:44,385 --> 00:00:44,385
+5. println(testCaseContext.getTestCaseStatus())
+
+7
+00:00:46,416 --> 00:00:46,416
+1. println(testSuiteContext.getTestSuiteId())
+

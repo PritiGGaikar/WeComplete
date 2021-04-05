@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010_Verify that user can edit sell property details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faa3844f-b5ef-4303-a6bb-62805985d254</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d7f6fd4-4965-4f4b-9f2f-01fd92425148</id>
+      <masked>false</masked>
+      <name>editSellPrice</name>
+   </variable>
+</TestCaseEntity>

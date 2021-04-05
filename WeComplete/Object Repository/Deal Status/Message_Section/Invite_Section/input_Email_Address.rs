@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Email_Address</name>
+   <tag></tag>
+   <elementGuidId>0b4c99c3-c13e-4022-8e2f-017a4c9875f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;inviteMemberModal&quot;]//input[@formcontrolname='email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;inviteMemberModal&quot;]//input[@formcontrolname='email']</value>
+   </webElementProperties>
+</WebElementEntity>

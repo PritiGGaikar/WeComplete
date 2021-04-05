@@ -1,0 +1,44 @@
+1
+00:00:00,755 --> 00:00:00,755
+3. Message section is visible
+
+2
+00:00:01,123 --> 00:00:01,124
+3. Verify Channels tab 
+
+3
+00:00:01,730 --> 00:00:01,730
+9. Verify Direct messages tab
+
+4
+00:00:02,508 --> 00:00:02,509
+15. Verify  External contacts tab
+
+5
+00:00:03,229 --> 00:00:03,230
+21. Verify Pending Invitations tab
+
+6
+00:00:03,995 --> 00:00:03,996
+27. Verify Archives tab
+
+7
+00:00:04,748 --> 00:00:04,749
+33. Verify Invite People tab
+
+8
+00:00:05,477 --> 00:00:05,477
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:05,477 --> 00:00:05,477
+5. println(testCaseContext.getTestCaseStatus())
+
+10
+00:00:07,588 --> 00:00:07,588
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:07,588 --> 00:00:07,588
+5. println(testCaseContext.getTestCaseVariables())
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_member2</name>
+   <tag></tag>
+   <elementGuidId>57953248-9aac-452b-88e8-0c27d1a6583d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;choose_remote_modal&quot;]//tr[2]/td[1]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;choose_remote_modal&quot;]//tr[2]/td[1]/div/label</value>
+   </webElementProperties>
+</WebElementEntity>

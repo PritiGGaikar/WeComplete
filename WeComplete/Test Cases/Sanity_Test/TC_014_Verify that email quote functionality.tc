@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014_Verify that email quote functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa0cabc2-dea7-4a90-a769-86cd2d700ed5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d42b03e3-713a-43d5-bcf5-41a4e02472eb</id>
+      <masked>false</masked>
+      <name>emailsentMSG</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a45aac5c-e97d-4161-89dc-a33eb8f0b1a6</id>
+      <masked>false</masked>
+      <name>emailQuoteDetails</name>
+   </variable>
+</TestCaseEntity>

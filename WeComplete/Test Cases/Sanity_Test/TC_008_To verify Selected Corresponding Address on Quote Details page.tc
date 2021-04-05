@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_To verify Selected Corresponding Address on Quote Details page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>472478bb-f04c-4d64-ae7a-f812a2895b6d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61751863-6482-4b61-8160-8b5f99fedd28</id>
+      <masked>false</masked>
+      <name>headerAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>009f1468-b7ed-4eb7-baef-f511fa61052f</id>
+      <masked>false</masked>
+      <name>postCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0773a15c-167b-4ece-a669-d248b7e59f4c</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>

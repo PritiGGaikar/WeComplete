@@ -1,0 +1,32 @@
+1
+00:00:00,105 --> 00:00:00,105
+3. Verify Buy Currency 
+
+2
+00:00:00,562 --> 00:00:00,562
+9. Verify Buying Property Value
+
+3
+00:00:01,218 --> 00:00:01,218
+15. Verify Buying Property Post code
+
+4
+00:00:01,877 --> 00:00:01,878
+21. Verify Buying Property Comments
+
+5
+00:00:02,542 --> 00:00:02,542
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:02,543 --> 00:00:02,543
+5. println(testCaseContext.getTestCaseStatus())
+
+7
+00:00:04,569 --> 00:00:04,569
+1. println(testCaseContext.getTestCaseId())
+
+8
+00:00:04,569 --> 00:00:04,569
+5. println(testCaseContext.getTestCaseVariables())
+

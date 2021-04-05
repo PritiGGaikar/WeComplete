@@ -1,0 +1,32 @@
+1
+00:00:00,107 --> 00:00:00,107
+3. Verify header Correspondence Address on Quote Details page
+
+2
+00:00:00,574 --> 00:00:00,574
+9. Verify  Correspondence Address PostCode on Quote Details page
+
+3
+00:00:01,230 --> 00:00:01,231
+15. Verify  Correspondence Address on Quote Details page
+
+4
+00:00:01,888 --> 00:00:01,888
+21. click on Get Quote Button
+
+5
+00:00:02,330 --> 00:00:02,330
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:02,330 --> 00:00:02,331
+5. println(testCaseContext.getTestCaseStatus())
+
+7
+00:00:04,372 --> 00:00:04,372
+1. println(testCaseContext.getTestCaseId())
+
+8
+00:00:04,372 --> 00:00:04,373
+5. println(testCaseContext.getTestCaseVariables())
+

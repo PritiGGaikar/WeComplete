@@ -1,0 +1,64 @@
+1
+00:00:00,326 --> 00:00:00,326
+3. Verify Conveyancing Page header
+
+2
+00:00:01,225 --> 00:00:01,225
+9. Verify Property Details is visible
+
+3
+00:00:02,024 --> 00:00:02,025
+3. Verify Property Details section
+
+4
+00:00:02,732 --> 00:00:02,732
+9. Verify Price of property you are selling text
+
+5
+00:00:03,374 --> 00:00:03,375
+15. Verify Sell price
+
+6
+00:00:04,127 --> 00:00:04,128
+21. Click on Show more
+
+7
+00:00:04,641 --> 00:00:04,641
+27.  Verify Selling property details comment
+
+8
+00:00:05,791 --> 00:00:05,791
+33. Click on Buy toggel
+
+9
+00:00:06,286 --> 00:00:06,287
+39. Verify Price of property you are buying text
+
+10
+00:00:07,040 --> 00:00:07,042
+45. Verify Buy price
+
+11
+00:00:07,778 --> 00:00:07,779
+51. Click on Show more
+
+12
+00:00:08,259 --> 00:00:08,259
+57.  Verify Buying property details  comment
+
+13
+00:00:09,326 --> 00:00:09,326
+1. println(testCaseContext.getTestCaseId())
+
+14
+00:00:09,327 --> 00:00:09,327
+5. println(testCaseContext.getTestCaseStatus())
+
+15
+00:00:11,417 --> 00:00:11,418
+1. println(testCaseContext.getTestCaseId())
+
+16
+00:00:11,421 --> 00:00:11,421
+5. println(testCaseContext.getTestCaseVariables())
+

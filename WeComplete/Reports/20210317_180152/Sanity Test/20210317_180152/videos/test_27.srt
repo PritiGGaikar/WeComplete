@@ -1,0 +1,20 @@
+1
+00:00:00,336 --> 00:00:00,336
+3. Verify that Invite people tab is Present
+
+2
+00:00:07,254 --> 00:00:07,254
+2. out.print("Invite People pop up is not present")
+
+3
+00:00:07,260 --> 00:00:07,260
+1. println(testCaseContext.getTestCaseId())
+
+4
+00:00:07,263 --> 00:00:07,265
+5. println(testCaseContext.getTestCaseStatus())
+
+5
+00:00:09,346 --> 00:00:09,346
+1. println(testSuiteContext.getTestSuiteId())
+

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regression Suit,Firefox 87.0,,,2021-04-03 23:18:23,2021-04-03 23:22:56,4m - 32.836s,FAILED
+,,,,,,,
+Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant,Firefox 87.0,,,2021-04-03 23:18:25,2021-04-03 23:20:58,2m - 33.169s,FAILED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-04-03 23:18:25,2021-04-03 23:18:57,31.788s,PASSED
+com.wecomplete.keywords.Login_URL.legalURL(baseSFUrl),Firefox 87.0,Navigate to  legal URL,,2021-04-03 23:19:02,2021-04-03 23:19:12,10.609s,PASSED
+"com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(quoteHeaderSF, sellPropertyHeader, sellPropertyPrice, sellPostCode, sellhouseNo, sellStreetName, sellComment)",Firefox 87.0,Enter Selling property details,,2021-04-03 23:19:12,2021-04-03 23:20:55,1m - 43.264s,FAILED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-04-03 23:20:55,2021-04-03 23:20:55,0.007s,PASSED
+Video,Firefox 87.0,,,2021-04-03 23:20:58,2021-04-03 23:20:58,0.003s,PASSED
+,,,,,,,
+Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant,Firefox 87.0,,,2021-04-03 23:20:58,2021-04-03 23:22:56,1m - 57.710s,FAILED
+Start listener action : sampleBeforeTestCase,Firefox 87.0,,,2021-04-03 23:20:58,2021-04-03 23:21:13,14.951s,PASSED
+com.wecomplete.keywords.Login_URL.legalURL(baseSFUrl),Firefox 87.0,Navigate to  legal URL,,2021-04-03 23:21:14,2021-04-03 23:21:29,15.523s,PASSED
+"com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject(""Object Repository/Quote/tab_Selling""), shortTime)",Firefox 87.0,Click on Sell tab,,2021-04-03 23:21:29,2021-04-03 23:21:34,4.481s,PASSED
+"callTestCase(findTestCase(""Quote/Selling Property deatils""), [""quoteHeaderEA"":quoteHeaderSF, ""sellPropertyHeader"":sellPropertyHeader, ""sellPropertyPrice"":sellPropertyPrice, ""postCode"":sellPostCode, ... ], CONTINUE_ON_FAILURE)",Firefox 87.0,Enter Sell Property details,,2021-04-03 23:21:34,2021-04-03 23:22:16,41.924s,PASSED
+"callTestCase(findTestCase(""Quote/Personal Details""), [""primaryFN"":"""", ""primaryLN"":"""", ""primaryMNO"":"""", ""primaryEID"":"""", ""jointHolderFN"":"""", ""jointHolderLN"":"""", ""jointHolderMNO"":"""", ... ], CONTINUE_ON_FAILURE)",Firefox 87.0,Enter Personal details,,2021-04-03 23:22:16,2021-04-03 23:22:54,38.087s,FAILED
+Start listener action : sampleAfterTestCase,Firefox 87.0,,,2021-04-03 23:22:54,2021-04-03 23:22:54,0.016s,PASSED
+Video,Firefox 87.0,,,2021-04-03 23:22:56,2021-04-03 23:22:56,0.000s,PASSED

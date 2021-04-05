@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_030_Verify that Solicitor can send AML request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e92a878-f80e-47b1-9ed4-a4976ffc5090</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e09729a8-2c6e-4073-ac90-5b2bd7f96de3</id>
+      <masked>false</masked>
+      <name>headerAML</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>218562d9-8353-432b-aa19-87f5dcf7d18b</id>
+      <masked>false</masked>
+      <name>personalDetails</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40c58b2e-b4b2-439a-b847-f5346922d730</id>
+      <masked>false</masked>
+      <name>contactDetails</name>
+   </variable>
+</TestCaseEntity>

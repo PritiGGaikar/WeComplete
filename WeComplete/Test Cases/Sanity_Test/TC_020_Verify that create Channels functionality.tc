@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_020_Verify that create Channels functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>324815f9-b1ce-4b6d-95ec-5ebffcd04f7a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>76c4b534-b9f9-4ed7-80ff-e3691c650caf</id>
+      <masked>false</masked>
+      <name>channelName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,64 @@
+1
+00:00:00,336 --> 00:00:00,337
+3. Verify that Correspondence Address progress step
+
+2
+00:00:00,987 --> 00:00:00,988
+9. Verify Correspondence Address is visible
+
+3
+00:00:01,725 --> 00:00:01,726
+3. Verify header as Correspondence Address
+
+4
+00:00:02,462 --> 00:00:02,462
+9. Select check box Correspondence AddressSame as Buying Address
+
+5
+00:00:02,826 --> 00:00:02,827
+15. Unselect check box Correspondence AddressSame as Buying Address
+
+6
+00:00:03,322 --> 00:00:03,322
+21. Enter PostCode
+
+7
+00:00:10,155 --> 00:00:10,157
+25. delay(5)
+
+8
+00:00:15,209 --> 00:00:15,210
+31. Click on Select Address drop down
+
+9
+00:00:15,589 --> 00:00:15,591
+35. com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Correspondence_Address_Page/DD_Select_Address"), shortTime)
+
+10
+00:00:16,532 --> 00:00:16,536
+39. delay(5)
+
+11
+00:00:21,543 --> 00:00:21,544
+45. Select Address from Drop down
+
+12
+00:00:22,006 --> 00:00:22,007
+51. Click on “Save&Next” button
+
+13
+00:00:22,950 --> 00:00:22,950
+1. println(testCaseContext.getTestCaseId())
+
+14
+00:00:22,951 --> 00:00:22,952
+5. println(testCaseContext.getTestCaseStatus())
+
+15
+00:00:25,081 --> 00:00:25,081
+1. println(testCaseContext.getTestCaseId())
+
+16
+00:00:25,081 --> 00:00:25,081
+5. println(testCaseContext.getTestCaseVariables())
+

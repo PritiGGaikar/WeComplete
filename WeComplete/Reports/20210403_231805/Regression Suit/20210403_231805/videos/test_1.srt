@@ -1,0 +1,32 @@
+1
+00:00:00,534 --> 00:00:00,535
+3. Navigate to  legal URL
+
+2
+00:00:11,143 --> 00:00:11,143
+9. Enter Selling property details
+
+3
+00:01:54,412 --> 00:01:54,412
+1. println(testCaseContext.getTestCaseId())
+
+4
+00:01:54,418 --> 00:01:54,418
+5. println(testCaseContext.getTestCaseStatus())
+
+5
+00:01:57,197 --> 00:01:57,197
+1. openBrowser("")
+
+6
+00:02:11,782 --> 00:02:11,782
+5. maximizeWindow()
+
+7
+00:02:12,143 --> 00:02:12,144
+9. println(testCaseContext.getTestCaseId())
+
+8
+00:02:12,145 --> 00:02:12,145
+13. println(testCaseContext.getTestCaseVariables())
+

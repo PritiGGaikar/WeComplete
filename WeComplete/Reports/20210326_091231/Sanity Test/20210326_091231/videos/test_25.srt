@@ -1,0 +1,104 @@
+1
+00:00:00,138 --> 00:00:00,138
+1. callTestCase(findTestCase("common_test _cases/do_sign out"), [:], CONTINUE_ON_FAILURE)
+
+2
+00:00:00,318 --> 00:00:00,318
+1. scrollToElement(findTestObject("sign_out/user_profile"), shortTime)
+
+3
+00:00:00,567 --> 00:00:00,567
+7. Click on user profile
+
+4
+00:00:03,819 --> 00:00:03,820
+13. Click on sign out
+
+5
+00:00:10,985 --> 00:00:10,985
+5. callTestCase(findTestCase("common_test _cases/login_Page"), ["headerDashboard":headerDashboard, "loginId":EA1, "Password":Password, "baseEAUrl":baseEAUrl], CONTINUE_ON_FAILURE)
+
+6
+00:00:11,044 --> 00:00:11,044
+3. Navigate to legal URL
+
+7
+00:00:14,996 --> 00:00:14,996
+9. Verify Login tab
+
+8
+00:00:22,140 --> 00:00:22,140
+15. Verify Login Page header
+
+9
+00:00:29,296 --> 00:00:29,296
+21. Enter Login id
+
+10
+00:01:12,117 --> 00:01:12,117
+9. waitForPageLoad(longTime)
+
+11
+00:01:12,126 --> 00:01:12,126
+15. Visiable Quote Accepted tab 
+
+12
+00:01:12,367 --> 00:01:12,367
+3. Click on Quote Accepted tab
+
+13
+00:01:12,696 --> 00:01:12,696
+9. Scroll to filter icon
+
+14
+00:01:16,077 --> 00:01:16,077
+15. Click on filter icon
+
+15
+00:01:16,327 --> 00:01:16,327
+21. Select Property type Commercial
+
+16
+00:01:16,980 --> 00:01:16,981
+27. Select Property Leasehold
+
+17
+00:01:17,434 --> 00:01:17,434
+33. Enter Post code 
+
+18
+00:01:24,129 --> 00:01:24,129
+39. Verify Apply button is clickable
+
+19
+00:01:24,583 --> 00:01:24,583
+3. Click on Apply button
+
+20
+00:01:24,835 --> 00:01:24,835
+9. Verify Created Quote is available
+
+21
+00:01:27,899 --> 00:01:27,899
+3. Verify created Sell/ Buy quote displayed on tab
+
+22
+00:01:28,357 --> 00:01:28,357
+9. Verify Assigned to button is clickable
+
+23
+00:02:11,867 --> 00:02:11,867
+1. println(testCaseContext.getTestCaseId())
+
+24
+00:02:11,867 --> 00:02:11,867
+5. println(testCaseContext.getTestCaseStatus())
+
+25
+00:02:13,961 --> 00:02:13,961
+1. println(testCaseContext.getTestCaseId())
+
+26
+00:02:13,962 --> 00:02:13,962
+5. println(testCaseContext.getTestCaseVariables())
+

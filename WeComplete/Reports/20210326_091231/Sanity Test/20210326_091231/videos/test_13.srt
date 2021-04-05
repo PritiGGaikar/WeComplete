@@ -1,0 +1,52 @@
+1
+00:00:00,117 --> 00:00:00,117
+3. Click on Buy Fee toggle
+
+2
+00:00:00,366 --> 00:00:00,366
+9. Verify Transaction of Buy price is present
+
+3
+00:00:01,019 --> 00:00:01,019
+15. Verify  Professional Fees Column
+
+4
+00:00:01,714 --> 00:00:01,714
+21. Verify  NET Fees Column 
+
+5
+00:00:02,372 --> 00:00:02,373
+27. Verify  VAT Fees Column
+
+6
+00:00:03,031 --> 00:00:03,031
+33. Verify  Gross Fees Column
+
+7
+00:00:03,683 --> 00:00:03,683
+39. Verify Third Party Disbursements column
+
+8
+00:00:04,338 --> 00:00:04,338
+45. Verify Third Party Disbursements column
+
+9
+00:00:05,003 --> 00:00:05,003
+49. com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Fees_Table/btn_Close Icon"), shortTime)
+
+10
+00:00:05,450 --> 00:00:05,450
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:05,453 --> 00:00:05,453
+5. println(testCaseContext.getTestCaseStatus())
+
+12
+00:00:07,483 --> 00:00:07,483
+1. println(testCaseContext.getTestCaseId())
+
+13
+00:00:07,484 --> 00:00:07,484
+5. println(testCaseContext.getTestCaseVariables())
+

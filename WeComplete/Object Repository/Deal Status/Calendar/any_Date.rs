@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>any_Date</name>
+   <tag></tag>
+   <elementGuidId>55fdf717-8852-4acb-a9c8-18ef32a7e4f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;calender-container&quot;]/div[2]/table/tr[3]//td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;calender-container&quot;]/div[2]/table/tr[3]//td[1]</value>
+   </webElementProperties>
+</WebElementEntity>

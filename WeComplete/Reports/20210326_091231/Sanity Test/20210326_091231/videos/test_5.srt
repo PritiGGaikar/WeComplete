@@ -1,0 +1,44 @@
+1
+00:00:00,129 --> 00:00:00,130
+3. Verify Quote details step 
+
+2
+00:00:00,592 --> 00:00:00,593
+9. Verify Quote Details  page is visible
+
+3
+00:00:01,273 --> 00:00:01,273
+3. Verify Quote Details page header
+
+4
+00:00:01,931 --> 00:00:01,932
+9. Verify Sell Currency 
+
+5
+00:00:02,393 --> 00:00:02,394
+15. Verify Selling Property Value
+
+6
+00:00:03,066 --> 00:00:03,067
+21. Verify Selling Property Post code
+
+7
+00:00:03,727 --> 00:00:03,728
+27. Verify Selling Property Comments
+
+8
+00:00:04,390 --> 00:00:04,390
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:04,391 --> 00:00:04,391
+5. println(testCaseContext.getTestCaseStatus())
+
+10
+00:00:06,426 --> 00:00:06,426
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:06,426 --> 00:00:06,427
+5. println(testCaseContext.getTestCaseVariables())
+

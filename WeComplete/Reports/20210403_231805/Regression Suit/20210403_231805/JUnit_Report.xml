@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Regression Suit" time="275.616" tests="2" failures="2" errors="0">
+   <testsuite name="Regression Suit" tests="2" failures="2" errors="0" time="275.616" timestamp="2021-04-03 23:18:23" hostname="Dell - DESKTOP-IS2U7K8" id="Test Suites/Regression Suit">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805"/>
+         <property name="logFiles" value="C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472177728.png, C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472218127.png, C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472235097.png, C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472243113.png, C:\Users\Dell\Downloads\WeComplete\Reports\20210403_231805\Regression Suit\20210403_231805\1617472251384.png, C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472255319.png, C:\Users\Dell\Downloads\WeComplete\Reports\20210403_231805\Regression Suit\20210403_231805/videos\test_1.avi, C:\Users\Dell\Downloads\WeComplete\Reports\20210403_231805\Regression Suit\20210403_231805/videos\test_2.avi"/>
+         <property name="hostName" value="Dell - DESKTOP-IS2U7K8"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.7.2.205"/>
+         <property name="browser" value="Firefox 87.0"/>
+         <property name="hostAddress" value="192.168.1.104"/>
+         <property name="sessionId" value="0570f59d-0d21-4113-816e-9456f4fb40bf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant" time="153.169" classname="Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$0.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.headerQuotey(Page_Selling_Property_Details.groovy:89)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:55)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+"/>
+         <system-out><![CDATA[2021-04-03 23:18:25 - [TEST_CASE][FAILED] - Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant: Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$0.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.headerQuotey(Page_Selling_Property_Details.groovy:89)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:55)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+
+
+2021-04-03 23:18:25 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-04-03 23:18:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-04-03 23:18:26 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2021-04-03 23:18:26 - [MESSAGE][INFO] - Action delay is set to 3,000 milliseconds
+
+2021-04-03 23:18:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-04-03 23:18:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-04-03 23:18:57 - [MESSAGE][PASSED] - Current window maximized
+
+2021-04-03 23:18:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-04-03 23:18:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-04-03 23:19:02 - [TEST_STEP][PASSED] - com.wecomplete.keywords.Login_URL.legalURL(baseSFUrl): com.wecomplete.keywords.Login_URL.legalURL is PASSED
+
+2021-04-03 23:19:12 - [MESSAGE][PASSED] - Navigate to 'https://davisons.icompleteonline.co.uk/legal' successfully
+
+2021-04-03 23:19:12 - [MESSAGE][PASSED] - com.wecomplete.keywords.Login_URL.legalURL is PASSED
+
+2021-04-03 23:19:12 - [TEST_STEP][FAILED] - com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(quoteHeaderSF, sellPropertyHeader, sellPropertyPrice, sellPostCode, sellhouseNo, sellStreetName, sellComment): com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+
+2021-04-03 23:19:16 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/header_Quote' is visible
+
+2021-04-03 23:19:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/Quote/header_Quote' is: 'Find your Conveyancing Quote for Property'
+
+2021-04-03 23:19:17 - [MESSAGE][PASSED] - Actual text 'Find your Conveyancing Quote for Property' and expected text 'Find your Conveyancing Quote for Property' are matched 
+
+2021-04-03 23:19:17 - [MESSAGE][INFO] - Get actule text
+
+2021-04-03 23:19:17 - [MESSAGE][FAILED] - Fail to gettext on elementvalue
+
+2021-04-03 23:19:17 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/header_Selling_Property_Details' is visible
+
+2021-04-03 23:19:18 - [MESSAGE][PASSED] - Text of object 'Object Repository/Quote/Selling_Property_Details_Page/header_Selling_Property_Details' is: 'Selling Property Details'
+
+2021-04-03 23:19:18 - [MESSAGE][PASSED] - Actual text 'Selling Property Details' and expected text 'Selling Property Details' are matched 
+
+2021-04-03 23:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/input_Price_Of_Property' is visible
+
+2021-04-03 23:19:26 - [MESSAGE][PASSED] - Text '225,000' is set on object 'Object Repository/Quote/Selling_Property_Details_Page/input_Price_Of_Property'
+
+2021-04-03 23:19:27 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/input_Property_PostCode' is visible
+
+2021-04-03 23:19:33 - [MESSAGE][PASSED] - Text 'LD8 2AW' is set on object 'Object Repository/Quote/Selling_Property_Details_Page/input_Property_PostCode'
+
+2021-04-03 23:19:34 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/click_Enter_Address_Manually' is visible
+
+2021-04-03 23:19:38 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/click_Enter_Address_Manually' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/click_Enter_Address_Manually'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnEnterAddressManually(Page_Selling_Property_Details.groovy:117)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:59)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element <a class="address-link ng-star-inserted"> is not clickable at point (616,740) because another element <div class="footer"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-IS2U7K8', ip: '192.168.1.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 87.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210315170302, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16836, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbe3b30f-df6a-41a4-8c2b-a9aaf4a61a8d
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy13.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnEnterAddressManually(Page_Selling_Property_Details.groovy:117)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:59)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Script1617203355966.run(Script1617203355966.groovy:23)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472177728.png]]
+
+2021-04-03 23:19:44 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@placeholder='Enter Flat/Plot/House No']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-04-03 23:19:44 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Quote/Selling_Property_Details_Page/input_House_No'. Try using Self-healing.
+
+2021-04-03 23:19:44 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the XPath is null.
+
+2021-04-03 23:19:45 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: input#mat-input-11'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-04-03 23:19:46 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/Quote/Selling_Property_Details_Page/input_House_No' located by '//*[@placeholder='Enter Flat/Plot/House No']' not found
+
+2021-04-03 23:20:17 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@placeholder='Enter Flat/Plot/House No']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-04-03 23:20:17 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Quote/Selling_Property_Details_Page/input_House_No'. Try using Self-healing.
+
+2021-04-03 23:20:17 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the XPath is null.
+
+2021-04-03 23:20:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: input#mat-input-11'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-04-03 23:20:18 - [MESSAGE][FAILED] - Unable to set text 'Artisan Print' of object 'Object Repository/Quote/Selling_Property_Details_Page/input_House_No' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text 'Artisan Print' of object 'Object Repository/Quote/Selling_Property_Details_Page/input_House_No'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:977)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$5.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.enterHouseNo(Page_Selling_Property_Details.groovy:123)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:60)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Quote/Selling_Property_Details_Page/input_House_No' located by '//*[@placeholder='Enter Flat/Plot/House No']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1368)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:977)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$5.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.enterHouseNo(Page_Selling_Property_Details.groovy:123)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:60)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Script1617203355966.run(Script1617203355966.groovy:23)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472218127.png]]
+
+2021-04-03 23:20:24 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/input_Street' is visible
+
+2021-04-03 23:20:31 - [MESSAGE][PASSED] - Text '3 Hereford Street' is set on object 'Object Repository/Quote/Selling_Property_Details_Page/input_Street'
+
+2021-04-03 23:20:31 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/Click_No_Of_Seller_Buyer' is visible
+
+2021-04-03 23:20:35 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/Click_No_Of_Seller_Buyer' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/Click_No_Of_Seller_Buyer'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnNoOfSeller(Page_Selling_Property_Details.groovy:135)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:62)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element <i class="fa fa-plus"> is not clickable at point (487,702) because another element <div class="footer"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-IS2U7K8', ip: '192.168.1.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 87.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210315170302, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16836, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbe3b30f-df6a-41a4-8c2b-a9aaf4a61a8d
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy13.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnNoOfSeller(Page_Selling_Property_Details.groovy:135)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:62)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Script1617203355966.run(Script1617203355966.groovy:23)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472235097.png]]
+
+2021-04-03 23:20:35 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/toggle_Commercial' is visible
+
+2021-04-03 23:20:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Quote/Selling_Property_Details_Page/toggle_Commercial' is clicked on
+
+2021-04-03 23:20:39 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/toggle_Leasehold' is visible
+
+2021-04-03 23:20:43 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/toggle_Leasehold' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/toggle_Leasehold'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnFreeLeaseHold(Page_Selling_Property_Details.groovy:147)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:64)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element <span class="t-black"> is not clickable at point (350,735) because another element <p class="ng-star-inserted"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-IS2U7K8', ip: '192.168.1.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 87.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210315170302, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16836, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbe3b30f-df6a-41a4-8c2b-a9aaf4a61a8d
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy13.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnFreeLeaseHold(Page_Selling_Property_Details.groovy:147)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:64)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Script1617203355966.run(Script1617203355966.groovy:23)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472243113.png]]
+
+2021-04-03 23:20:43 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:20:43 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:20:44 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/input_Comment' is visible
+
+2021-04-03 23:20:50 - [MESSAGE][PASSED] - Text 'Selling property details form' is set on object 'Object Repository/Quote/Selling_Property_Details_Page/input_Comment'
+
+2021-04-03 23:20:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\Users\Dell\Downloads\WeComplete\Reports\20210403_231805\Regression Suit\20210403_231805\1617472251384.png]]
+
+2021-04-03 23:20:51 - [MESSAGE][PASSED] - Object 'Object Repository/Quote/Selling_Property_Details_Page/btn_Save and Next' is visible
+
+2021-04-03 23:20:55 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/btn_Save and Next' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Quote/Selling_Property_Details_Page/btn_Save and Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnSaveandNext(Page_Selling_Property_Details.groovy:165)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:67)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element <button class="btn btn-continue" type="submit"> is not clickable at point (200,727) because another element <p class="ng-star-inserted"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-IS2U7K8', ip: '192.168.1.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 87.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210315170302, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16836, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbe3b30f-df6a-41a4-8c2b-a9aaf4a61a8d
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy13.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:617)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$6.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.clickOnSaveandNext(Page_Selling_Property_Details.groovy:165)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:67)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Script1617203355966.run(Script1617203355966.groovy:23)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\Dell\\Downloads\\WeComplete\\Reports\\20210403_231805\\Regression Suit\\20210403_231805\\1617472255319.png]]
+
+2021-04-03 23:20:55 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:20:55 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:20:55 - [MESSAGE][FAILED] - com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+
+2021-04-03 23:20:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-04-03 23:20:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-04-03 23:20:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-04-03 23:20:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant' .
+
+2021-04-03 23:20:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant' .
+[[ATTACHMENT|C:\Users\Dell\Downloads\WeComplete\Reports\20210403_231805\Regression Suit\20210403_231805/videos\test_1.avi]]]]></system-out>
+         <system-err><![CDATA[2021-04-03 23:18:25 - [TEST_CASE][FAILED] - Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant: Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$0.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.headerQuotey(Page_Selling_Property_Details.groovy:89)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:55)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant" time="117.71" classname="Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to call Test Case 'Test Cases/Quote/Personal Details' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:70)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	... 18 more
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+"/>
+         <system-out><![CDATA[2021-04-03 23:20:58 - [TEST_CASE][FAILED] - Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant: Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to call Test Case 'Test Cases/Quote/Personal Details' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:70)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	... 18 more
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+
+
+2021-04-03 23:20:58 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-04-03 23:20:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-04-03 23:20:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-04-03 23:21:03 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2021-04-03 23:21:03 - [MESSAGE][INFO] - Action delay is set to 3,000 milliseconds
+
+2021-04-03 23:21:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-04-03 23:21:13 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-04-03 23:21:13 - [MESSAGE][PASSED] - Current window maximized
+
+2021-04-03 23:21:13 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-04-03 23:21:13 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-04-03 23:21:14 - [TEST_STEP][PASSED] - com.wecomplete.keywords.Login_URL.legalURL(baseSFUrl): com.wecomplete.keywords.Login_URL.legalURL is PASSED
+
+2021-04-03 23:21:29 - [MESSAGE][PASSED] - Navigate to 'https://davisons.icompleteonline.co.uk/legal' successfully
+
+2021-04-03 23:21:29 - [MESSAGE][PASSED] - com.wecomplete.keywords.Login_URL.legalURL is PASSED
+
+2021-04-03 23:21:29 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Quote/tab_Selling"), shortTime): Element has been clicked
+
+2021-04-03 23:21:34 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:21:34 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:21:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Quote/Selling Property deatils"), ["quoteHeaderEA":quoteHeaderSF, "sellPropertyHeader":sellPropertyHeader, "sellPropertyPrice":sellPropertyPrice, "postCode":sellPostCode, ... ], CONTINUE_ON_FAILURE): Call Test Case 'Test Cases/Quote/Selling Property deatils' successfully
+
+2021-04-03 23:21:34 - [TEST_CASE][PASSED] - Test Cases/Quote/Selling Property deatils: Test Cases/Quote/Selling Property deatils
+
+2021-04-03 23:21:34 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/header_Quote"), quoteHeaderEA): Verifed actule & expected data
+
+2021-04-03 23:21:35 - [MESSAGE][INFO] - Get actule text
+
+2021-04-03 23:21:35 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-04-03 23:21:35 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/tab_Selling_and_Buying"), shortTime) == true): null
+
+2021-04-03 23:21:36 - [MESSAGE][PASSED] - Element has been present
+
+2021-04-03 23:21:36 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Selling_Property_Details_Page/header_Selling_Property_Details"), sellPropertyHeader): Verifed actule & expected data
+
+2021-04-03 23:21:37 - [MESSAGE][INFO] - Get actule text
+
+2021-04-03 23:21:37 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-04-03 23:21:37 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Price_Of_Property"), sellPropertyPrice): Sendkey value has been send
+
+2021-04-03 23:21:42 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:21:45 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:21:45 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Property_PostCode"), postCode): Sendkey value has been send
+
+2021-04-03 23:21:48 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:21:51 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:21:51 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/click_Enter_Address_Manually"), shortTime): Element has been clicked
+
+2021-04-03 23:21:52 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:21:52 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:21:52 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_House_No"), houseNo): Sendkey value has been send
+
+2021-04-03 23:21:56 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:21:59 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:21:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Street"), streetName): Sendkey value has been send
+
+2021-04-03 23:22:03 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:22:06 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:22:06 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/Click_No_Of_Seller_Buyer"), shortTime): Element has been clicked
+
+2021-04-03 23:22:07 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:22:07 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:22:07 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/toggle_Commercial"), shortTime): Element has been clicked
+
+2021-04-03 23:22:07 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:22:07 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:22:07 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/toggle_Leasehold"), shortTime): Element has been clicked
+
+2021-04-03 23:22:08 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:22:08 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:22:08 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Comment"), sellPropertyComments): Sendkey value has been send
+
+2021-04-03 23:22:12 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:22:15 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:22:15 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/btn_Save and Next"), shortTime): Element has been clicked
+
+2021-04-03 23:22:16 - [MESSAGE][INFO] - Clicking element
+
+2021-04-03 23:22:16 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-04-03 23:22:16 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Quote/Selling Property deatils' successfully
+
+2021-04-03 23:22:16 - [TEST_STEP][FAILED] - callTestCase(findTestCase("Quote/Personal Details"), ["primaryFN":"", "primaryLN":"", "primaryMNO":"", "primaryEID":"", "jointHolderFN":"", "jointHolderLN":"", "jointHolderMNO":"", ... ], CONTINUE_ON_FAILURE): Unable to call Test Case 'Test Cases/Quote/Personal Details' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+)
+
+2021-04-03 23:22:16 - [TEST_CASE][ERROR] - Test Cases/Quote/Personal Details: Test Cases/Quote/Personal Details FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+
+
+2021-04-03 23:22:16 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Quote/Personal_Details_Page/step_Personal_Details_Page"), shortTime): Element has been present
+
+2021-04-03 23:22:18 - [MESSAGE][PASSED] - Element has been present
+
+2021-04-03 23:22:18 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details"), shortTime) == true): null
+
+2021-04-03 23:22:19 - [MESSAGE][PASSED] - Element has been present
+
+2021-04-03 23:22:19 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details"), shortTime): Element has been present
+
+2021-04-03 23:22:20 - [MESSAGE][PASSED] - Element has been present
+
+2021-04-03 23:22:20 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_FirstName"), primaryFN): Sendkey value has been send
+
+2021-04-03 23:22:23 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:22:26 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:22:26 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_LastName"), primaryLN): Sendkey value has been send
+
+2021-04-03 23:22:30 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:22:33 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:22:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_EmailId"), primaryEID): Sendkey value has been send
+
+2021-04-03 23:22:37 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:22:40 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:22:40 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_PhoneNo"), primaryMNO): Sendkey value has been send
+
+2021-04-03 23:22:44 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-04-03 23:22:47 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-04-03 23:22:47 - [TEST_STEP][FAILED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2"), shortTime): java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+
+2021-04-03 23:22:54 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-04-03 23:22:54 - [MESSAGE][FAILED] - java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+
+2021-04-03 23:22:54 - [MESSAGE][FAILED] - Unable to call Test Case 'Test Cases/Quote/Personal Details' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+)
+
+2021-04-03 23:22:54 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-04-03 23:22:54 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-04-03 23:22:54 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-04-03 23:22:56 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant' .
+
+2021-04-03 23:22:56 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant' .
+[[ATTACHMENT|C:\Users\Dell\Downloads\WeComplete\Reports\20210403_231805\Regression Suit\20210403_231805/videos\test_2.avi]]]]></system-out>
+         <system-err><![CDATA[2021-04-03 23:20:58 - [TEST_CASE][FAILED] - Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant: Test Cases/Regression Test cases/RTC_02_Create Sell Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to call Test Case 'Test Cases/Quote/Personal Details' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:70)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at RTC_02_Create Sell Quote on solicitor type tenant.run(RTC_02_Create Sell Quote on solicitor type tenant:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Quote/Personal Details' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	... 18 more
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at Personal Details.run(Personal Details:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2' located by '//label[@class='csk csk-paadding ng-star-inserted']//following-sibling::span' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickUsingJS(TestBase.groovy:69)
+	... 32 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-04-03 23:18:23 - [TEST_SUITE][FAILED] - Regression Suit: Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$0.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.headerQuotey(Page_Selling_Property_Details.groovy:89)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:55)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)]]></system-out>
+      <system-err><![CDATA[2021-04-03 23:18:23 - [TEST_SUITE][FAILED] - Regression Suit: Test Cases/Regression Test cases/RTC_01_Create Sell and Buy Quote on solicitor type tenant FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to gettext on elementvalue
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$0.call(Unknown Source)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.headerQuotey(Page_Selling_Property_Details.groovy:89)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.createSellProperty(Page_Selling_Property_Details.groovy:55)
+	at com.wecomplete.keywords.Page_Selling_Property_Details.invokeMethod(Page_Selling_Property_Details.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at RTC_01_Create Sell and Buy Quote on solicitor type tenant.run(RTC_01_Create Sell and Buy Quote on solicitor type tenant:23)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1617472085636.run(TempTestSuite1617472085636.groovy:39)]]></system-err>
+   </testsuite>
+</testsuites>

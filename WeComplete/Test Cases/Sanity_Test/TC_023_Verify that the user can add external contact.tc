@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_023_Verify that the user can add external contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aca0a212-c0dd-490e-8fe9-0c09b919c391</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58545a53-ea95-4446-9c62-e51b8b7d69eb</id>
+      <masked>false</masked>
+      <name>titleExternal</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cabe7f5-b47a-4652-86fc-41cc6d643c28</id>
+      <masked>false</masked>
+      <name>externalMember</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d1bc46a4-1afc-4f85-865b-c8b6e913694f</id>
+      <masked>false</masked>
+      <name>externalName</name>
+   </variable>
+</TestCaseEntity>

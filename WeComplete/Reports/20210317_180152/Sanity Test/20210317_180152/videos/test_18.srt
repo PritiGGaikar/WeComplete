@@ -1,0 +1,44 @@
+1
+00:00:00,397 --> 00:00:00,397
+3. Verify updated Agreed Price
+
+2
+00:00:01,080 --> 00:00:01,081
+9. Verify updated Title Number
+
+3
+00:00:01,841 --> 00:00:01,842
+15. Verify updated UPRN
+
+4
+00:00:02,585 --> 00:00:02,587
+21. Verify updated Local Authority
+
+5
+00:00:03,327 --> 00:00:03,327
+27. Verify updated Flood Risk
+
+6
+00:00:04,108 --> 00:00:04,109
+33. Verify updated Plot Size
+
+7
+00:00:04,893 --> 00:00:04,894
+39. Verify updated Summary
+
+8
+00:00:05,664 --> 00:00:05,664
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:05,664 --> 00:00:05,664
+5. println(testCaseContext.getTestCaseStatus())
+
+10
+00:00:07,764 --> 00:00:07,765
+1. println(testCaseContext.getTestCaseId())
+
+11
+00:00:07,766 --> 00:00:07,766
+5. println(testCaseContext.getTestCaseVariables())
+

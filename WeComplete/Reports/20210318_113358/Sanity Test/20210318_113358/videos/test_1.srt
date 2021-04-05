@@ -1,0 +1,72 @@
+1
+00:00:00,590 --> 00:00:00,593
+3. Navigate to legal URL
+
+2
+00:00:08,172 --> 00:00:08,172
+9. Verify Quote page header
+
+3
+00:00:11,745 --> 00:00:11,746
+15. Verify sell Property tab is visible
+
+4
+00:00:12,477 --> 00:00:12,478
+3. Verify the Selling Property Details page header
+
+5
+00:00:13,253 --> 00:00:13,253
+9. Enter  price of Sell property 
+
+6
+00:00:20,313 --> 00:00:20,315
+15. Enter Post code 
+
+7
+00:00:27,081 --> 00:00:27,083
+21. Click on Enter Address Manually
+
+8
+00:00:27,564 --> 00:00:27,565
+27. Enter Plot/Flat/House No
+
+9
+00:00:34,473 --> 00:00:34,475
+33. Enter Street name
+
+10
+00:00:42,073 --> 00:00:42,074
+39. Select Number of seller
+
+11
+00:00:42,512 --> 00:00:42,520
+45. Select Property type Commercial
+
+12
+00:00:43,003 --> 00:00:43,004
+51. Select Property Leasehold
+
+13
+00:00:43,527 --> 00:00:43,528
+57. Enter Comment
+
+14
+00:00:50,467 --> 00:00:50,468
+63. Click on “Save&Next” button
+
+15
+00:00:50,995 --> 00:00:50,995
+1. println(testCaseContext.getTestCaseId())
+
+16
+00:00:51,027 --> 00:00:51,030
+5. println(testCaseContext.getTestCaseStatus())
+
+17
+00:00:53,235 --> 00:00:53,235
+1. println(testCaseContext.getTestCaseId())
+
+18
+00:00:53,255 --> 00:00:53,255
+5. println(testCaseContext.getTestCaseVariables())
+

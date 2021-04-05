@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ca7c2fb-c44c-4fca-a15a-2d0426faef2e</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.baseEAUrl</defaultValue>
+      <description></description>
+      <id>86266ae9-15f0-4d33-99ed-830ffdebf9df</id>
+      <masked>false</masked>
+      <name>baseEAUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.estateAgent</defaultValue>
+      <description></description>
+      <id>7e1b7133-94ad-4355-a352-0a8b97d8ccc3</id>
+      <masked>false</masked>
+      <name>user1</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>1a01f926-ed64-4d1f-8fbe-3439b2077cbe</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

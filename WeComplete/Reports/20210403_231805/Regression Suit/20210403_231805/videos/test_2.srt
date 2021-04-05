@@ -1,0 +1,112 @@
+1
+00:00:00,281 --> 00:00:00,281
+3. Navigate to  legal URL
+
+2
+00:00:15,804 --> 00:00:15,804
+9. Click on Sell tab
+
+3
+00:00:20,284 --> 00:00:20,286
+15. Enter Sell Property details
+
+4
+00:00:21,051 --> 00:00:21,052
+3. Verify Quote page header
+
+5
+00:00:21,857 --> 00:00:21,858
+9. Verify sell Property tab is visible
+
+6
+00:00:22,604 --> 00:00:22,604
+3. Verify the Selling Property Details page header
+
+7
+00:00:23,380 --> 00:00:23,382
+9. Enter  price of Sell property 
+
+8
+00:00:31,287 --> 00:00:31,287
+15. Enter Post code 
+
+9
+00:00:38,076 --> 00:00:38,077
+21. Click on Enter Address Manually
+
+10
+00:00:38,548 --> 00:00:38,549
+27. Enter Plot/Flat/House No
+
+11
+00:00:45,454 --> 00:00:45,455
+33. Enter Street name
+
+12
+00:00:52,969 --> 00:00:52,970
+39. Select Number of seller
+
+13
+00:00:53,424 --> 00:00:53,424
+45. Select Property type Commercial
+
+14
+00:00:53,941 --> 00:00:53,943
+51. Select Property Leasehold
+
+15
+00:00:54,462 --> 00:00:54,462
+57. Enter Comment
+
+16
+00:01:01,409 --> 00:01:01,410
+63. Click on “Save&Next” button
+
+17
+00:01:02,209 --> 00:01:02,209
+21. Enter Personal details
+
+18
+00:01:03,021 --> 00:01:03,021
+3. Verify that Personal Details progress step
+
+19
+00:01:04,524 --> 00:01:04,525
+9. Verify  Primary Contact Details header is visible
+
+20
+00:01:05,359 --> 00:01:05,360
+1. com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details"), shortTime)
+
+21
+00:01:06,119 --> 00:01:06,119
+7. Enter first name
+
+22
+00:01:12,867 --> 00:01:12,868
+13. Enter Last name
+
+23
+00:01:19,652 --> 00:01:19,654
+19. Enter email id
+
+24
+00:01:26,414 --> 00:01:26,416
+25. Enter mobile number
+
+25
+00:01:34,087 --> 00:01:34,088
+31. Click on check box make same as Joint Seller 2
+
+26
+00:01:40,296 --> 00:01:40,296
+1. println(testCaseContext.getTestCaseId())
+
+27
+00:01:40,296 --> 00:01:40,296
+5. println(testCaseContext.getTestCaseStatus())
+
+28
+00:01:42,448 --> 00:01:42,448
+1. println(testSuiteContext.getTestSuiteId())
+

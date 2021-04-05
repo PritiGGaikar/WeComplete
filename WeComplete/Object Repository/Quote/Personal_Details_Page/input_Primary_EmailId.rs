@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Primary_EmailId</name>
+   <tag></tag>
+   <elementGuidId>7673e342-bfab-4660-ad1f-1547e9c4b15d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[1]/div[2]/div[2]/mat-form-field/div/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[1]/div[2]/div[2]/mat-form-field/div/div[1]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

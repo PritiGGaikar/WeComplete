@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_024_Message send functionlity on External Contact member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ded2afe-80ea-4287-99c9-6a52117e245a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f8b4287-f316-4576-9700-c5f2985643be</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cab279b2-9626-4e1d-9294-73d4d3482206</id>
+      <masked>false</masked>
+      <name>documentRequest</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac672cea-3729-4f1e-af1b-793e98085a97</id>
+      <masked>false</masked>
+      <name>docRequestMSG</name>
+   </variable>
+</TestCaseEntity>

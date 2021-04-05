@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_033_Verify that Solicitor can sent Document Sign request to the members</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bdbd994-aa1d-427f-8805-b2eea7419bc5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9fe18af9-e222-49b6-abbe-0e112bb1acae</id>
+      <masked>false</masked>
+      <name>headerDocSign</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8b8c14f-d4e3-4184-9ffd-14bec64041a4</id>
+      <masked>false</masked>
+      <name>addSigner</name>
+   </variable>
+</TestCaseEntity>

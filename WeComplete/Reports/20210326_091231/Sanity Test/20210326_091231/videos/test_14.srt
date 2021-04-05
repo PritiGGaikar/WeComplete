@@ -1,0 +1,32 @@
+1
+00:00:00,109 --> 00:00:00,109
+3. Verify Email Quote button is present
+
+2
+00:00:00,572 --> 00:00:00,572
+3. Click on Email quote
+
+3
+00:00:01,017 --> 00:00:01,018
+9. Verify Thank You for Requesting Our Quote Page header
+
+4
+00:00:13,788 --> 00:00:13,788
+15. Verify Email sent successfully Message
+
+5
+00:00:56,814 --> 00:00:56,814
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:56,814 --> 00:00:56,814
+5. println(testCaseContext.getTestCaseStatus())
+
+7
+00:00:58,883 --> 00:00:58,883
+1. println(testCaseContext.getTestCaseId())
+
+8
+00:00:58,883 --> 00:00:58,883
+5. println(testCaseContext.getTestCaseVariables())
+

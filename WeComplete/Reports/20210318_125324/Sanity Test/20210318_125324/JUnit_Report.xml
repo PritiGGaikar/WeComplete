@@ -1,0 +1,2212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Sanity Test" time="699.516" tests="27" failures="1" errors="4">
+   <testsuite name="Sanity Test" tests="27" failures="1" errors="4" time="699.516" timestamp="2021-03-18 12:53:26" hostname="pritig - PTW10SPSD143.ad.paramatrix.co.in" id="Test Suites/Sanity Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324"/>
+         <property name="logFiles" value="C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_1.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_2.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_3.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_4.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_5.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_6.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_7.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_8.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_9.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_10.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_11.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_12.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_13.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_14.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_15.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_16.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_17.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_18.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_19.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_20.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_21.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_22.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_23.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_24.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_25.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_26.avi, C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_27.avi"/>
+         <property name="hostName" value="pritig - PTW10SPSD143.ad.paramatrix.co.in"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.1.0.1"/>
+         <property name="browser" value="Firefox 85.0"/>
+         <property name="hostAddress" value="10.1.2.143"/>
+         <property name="sessionId" value="5af87ae9-6b06-4a0c-bc8e-34aedddf3459"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=MANUAL_CONFIG, proxyServerType=HTTPS, password=dec@2020, proxyServerAddress=10.1.1.254, proxyServerPort=3128}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form" time="48.417" classname="Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:53:30 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form: Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form
+
+2021-03-18 12:53:30 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:53:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:53:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:53:30 - [TEST_STEP][PASSED] - navigateToUrl(baseurl + "/legal", STOP_ON_FAILURE): Navigate to 'https://imovehome.icompleteonline.co.uk/legal' successfully
+
+2021-03-18 12:53:36 - [MESSAGE][PASSED] - Navigate to 'https://imovehome.icompleteonline.co.uk/legal' successfully
+
+2021-03-18 12:53:36 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Quote/header_Quote"), shortTime): Element has been present
+
+2021-03-18 12:53:38 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:53:38 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/tab_Selling_and_Buying"), shortTime) == true): null
+
+2021-03-18 12:53:39 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:53:39 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Selling_Property_Details_Page/header_Selling_Property_Details"), sellPropertyHeader): Verifed actule & expected data
+
+2021-03-18 12:53:40 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:53:40 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:53:40 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Price_Of_Property"), sellPropertyPrice): Sendkey value has been send
+
+2021-03-18 12:53:44 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:53:47 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:53:47 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Property_PostCode"), postCode): Sendkey value has been send
+
+2021-03-18 12:53:50 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:53:53 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:53:53 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/click_Enter_Address_Manually"), shortTime): Element has been clicked
+
+2021-03-18 12:53:54 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:53:54 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:53:54 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_House_No"), houseNo): Sendkey value has been send
+
+2021-03-18 12:53:57 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:00 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:00 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Street"), streetName): Sendkey value has been send
+
+2021-03-18 12:54:05 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:08 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:08 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/Click_No_Of_Seller_Buyer"), shortTime): Element has been clicked
+
+2021-03-18 12:54:08 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:08 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:08 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/toggle_Commercial"), shortTime): Element has been clicked
+
+2021-03-18 12:54:09 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:09 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:09 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/toggle_Leasehold"), shortTime): Element has been clicked
+
+2021-03-18 12:54:09 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:09 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:09 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Comment"), sellPropertyComments): Sendkey value has been send
+
+2021-03-18 12:54:13 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:16 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:16 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/btn_Save and Next"), shortTime): Element has been clicked
+
+2021-03-18 12:54:16 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:16 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:16 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:54:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:54:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:54:18 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form' .
+
+2021-03-18 12:54:18 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_1.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form" time="39.588" classname="Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:54:18 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form: Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form
+
+2021-03-18 12:54:18 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:54:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:54:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:54:19 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Quote/Selling_Property_Details_Page/header_Buying Property Details"), shortTime) == true): null
+
+2021-03-18 12:54:19 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:54:19 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Selling_Property_Details_Page/header_Buying Property Details"), buylPropertyHeader): Verifed actule & expected data
+
+2021-03-18 12:54:20 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:54:20 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:54:20 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Price_Of_Property"), buyPropertyPrice): Sendkey value has been send
+
+2021-03-18 12:54:23 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:26 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:26 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Property_PostCode"), postCode): Sendkey value has been send
+
+2021-03-18 12:54:30 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:33 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/click_Enter_Address_Manually"), shortTime): Element has been clicked
+
+2021-03-18 12:54:33 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:33 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_House_No"), houseNo): Sendkey value has been send
+
+2021-03-18 12:54:37 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:40 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:40 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Street"), streetName): Sendkey value has been send
+
+2021-03-18 12:54:44 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:48 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:48 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/Click_No_Of_Seller_Buyer"), shortTime): Element has been clicked
+
+2021-03-18 12:54:48 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:48 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:48 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/toggle_Commercial"), shortTime): Element has been clicked
+
+2021-03-18 12:54:48 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:48 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:48 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/toggle_Leasehold"), shortTime): Element has been clicked
+
+2021-03-18 12:54:49 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:49 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:49 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Quote/Selling_Property_Details_Page/input_Comment"), buyPropertyComments): Sendkey value has been send
+
+2021-03-18 12:54:53 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:54:56 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:54:56 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/btn_Save and Next"), shortTime): Element has been clicked
+
+2021-03-18 12:54:56 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:54:56 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:54:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:54:56 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:54:56 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:54:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form' .
+
+2021-03-18 12:54:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_2.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details" time="58.776" classname="Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:54:58 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details: Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details
+
+2021-03-18 12:54:58 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:54:58 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:54:58 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:54:58 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Quote/Personal_Details_Page/step_Personal_Details_Page"), shortTime): Element has been present
+
+2021-03-18 12:54:59 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:54:59 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details"), shortTime) == true): null
+
+2021-03-18 12:54:59 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:54:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Primary Contact Details"), shortTime): Element has been present
+
+2021-03-18 12:55:00 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:55:00 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_FirstName"), primaryFN): Sendkey value has been send
+
+2021-03-18 12:55:03 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:06 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:06 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_LastName"), primaryLN): Sendkey value has been send
+
+2021-03-18 12:55:10 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:13 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:13 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_EmailId"), primaryEID): Sendkey value has been send
+
+2021-03-18 12:55:17 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:20 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:20 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Primary_PhoneNo"), primaryMNO): Sendkey value has been send
+
+2021-03-18 12:55:24 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:27 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:27 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Personal_Details_Page/checkBox_make same as Joint Seller 2"), shortTime): Element has been clicked
+
+2021-03-18 12:55:27 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:55:27 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:55:27 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Personal_Details_Page/header_Joint Seller 2 Contact Details"), shortTime): Element has been present
+
+2021-03-18 12:55:28 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:55:28 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Joint_Holder_First Name"), jointHolderFN): Sendkey value has been send
+
+2021-03-18 12:55:31 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:34 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:34 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Joint_Holder_LastName"), jointHolderLN): Sendkey value has been send
+
+2021-03-18 12:55:38 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:41 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:41 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Joint_Holder_PhoneNo"), jointHolderMNO): Sendkey value has been send
+
+2021-03-18 12:55:45 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:48 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:48 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Personal_Details_Page/input_Joint_Holder_EmailId"), jointHolderEID): Sendkey value has been send
+
+2021-03-18 12:55:51 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:55:54 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:55:54 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/btn_Save and Next"), shortTime): Element has been clicked
+
+2021-03-18 12:55:55 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:55:55 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:55:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:55:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:55:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:55:57 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details' .
+
+2021-03-18 12:55:57 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_3.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details" time="23.63" classname="Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:55:57 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details: Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details
+
+2021-03-18 12:55:57 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:55:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:55:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:55:57 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Correspondence_Address_Page/progressStep_Correspondence Address"), shortTime): Element has been present
+
+2021-03-18 12:55:57 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:55:57 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Correspondence_Address_Page/header_Correspondence Address"), shortTime) == true): null
+
+2021-03-18 12:55:58 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:55:58 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/Correspondence_Address_Page/header_Correspondence Address"), headerAddress): Verifed actule & expected data
+
+2021-03-18 12:55:59 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:55:59 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:55:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Correspondence_Address_Page/CheckBox_Correspondence Address Same as Buying Address"), shortTime): Element has been clicked
+
+2021-03-18 12:55:59 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:55:59 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:55:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Correspondence_Address_Page/CheckBox_Correspondence Address Same as Buying Address"), shortTime): Element has been clicked
+
+2021-03-18 12:55:59 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:55:59 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:55:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Correspondence_Address_Page/input_PostCode"), postCode): Sendkey value has been send
+
+2021-03-18 12:56:03 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:56:06 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:56:06 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2021-03-18 12:56:11 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2021-03-18 12:56:11 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Correspondence_Address_Page/DD_Select_Address"), shortTime): Element has been clicked
+
+2021-03-18 12:56:11 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:11 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:11 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Correspondence_Address_Page/DD_Select_Address"), shortTime): Element has been clicked
+
+2021-03-18 12:56:12 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:12 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:12 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2021-03-18 12:56:17 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2021-03-18 12:56:17 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Correspondence_Address_Page/DDVlaue_Select Address"), shortTime): Element has been clicked
+
+2021-03-18 12:56:18 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:18 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:18 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Selling_Property_Details_Page/btn_Save and Next"), shortTime): Element has been clicked
+
+2021-03-18 12:56:18 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:18 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:18 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:56:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:56:21 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details' .
+
+2021-03-18 12:56:21 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_4.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page" time="6.353" classname="Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:56:21 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page: Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page
+
+2021-03-18 12:56:21 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:56:21 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:21 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:56:21 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Quote_Details_Page/Progress_Step_Quote_Details"), shortTime): Element has been present
+
+2021-03-18 12:56:21 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:56:21 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Quote/Quote_Details_Page/header_Quote_Details"), shortTime) == true): null
+
+2021-03-18 12:56:22 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:56:22 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/header_Quote_Details"), headerQuotePreview): Verifed actule & expected data
+
+2021-03-18 12:56:22 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:22 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:22 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Seller_Property_Section/get_Sell_Currency"), sellCurrency): Verifed actule & expected data
+
+2021-03-18 12:56:23 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:23 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:23 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Seller_Property_Section/get_Sell_Price"), sellPropertyPrice): Verifed actule & expected data
+
+2021-03-18 12:56:24 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:24 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:24 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Seller_Property_Section/get_Sell_Post_Code"), postCode): Verifed actule & expected data
+
+2021-03-18 12:56:24 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:24 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:24 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Seller_Property_Section/get_Sell_Comments"), sellPropertyComments): Verifed actule & expected data
+
+2021-03-18 12:56:25 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:25 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:56:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:56:27 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page' .
+
+2021-03-18 12:56:27 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_5.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page" time="4.556" classname="Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:56:27 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page: Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page
+
+2021-03-18 12:56:27 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:56:27 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:27 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:56:27 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Currency"), buyCurrency): Verifed actule & expected data
+
+2021-03-18 12:56:27 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:27 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:27 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Price"), buyPropertyPrice): Verifed actule & expected data
+
+2021-03-18 12:56:28 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:28 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:28 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Post_Code"), postCode): Verifed actule & expected data
+
+2021-03-18 12:56:29 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:29 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:29 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Buy_Property_Section/get_Buy_Comments"), buyPropertyComments): Verifed actule & expected data
+
+2021-03-18 12:56:29 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:29 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:29 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:56:29 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:29 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:56:31 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page' .
+
+2021-03-18 12:56:31 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_6.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page" time="4.584" classname="Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:56:31 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page: Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page
+
+2021-03-18 12:56:31 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:56:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:56:32 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Personal_Details_Section/header_Personal_Details"), headerPropertyDetails): Verifed actule & expected data
+
+2021-03-18 12:56:32 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:32 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:32 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Personal_Details_Section/get_PrimaryFN"), primaryHFN): Verifed actule & expected data
+
+2021-03-18 12:56:33 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:33 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Personal_Details_Section/get_PrimaryMNO"), primaryMNO): Verifed actule & expected data
+
+2021-03-18 12:56:33 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:33 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Personal_Details_Section/get_PrimaryEID"), primaryEID): Verifed actule & expected data
+
+2021-03-18 12:56:34 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:34 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:56:34 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:34 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:56:36 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page' .
+
+2021-03-18 12:56:36 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_7.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page" time="4.343" classname="Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:56:36 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page: Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page
+
+2021-03-18 12:56:36 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:56:36 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:36 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:56:36 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Corresponding_Address_Section/get_header_Correspondence Address"), headerAddress): Verifed actule & expected data
+
+2021-03-18 12:56:37 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:37 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:37 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Corresponding_Address_Section/get_Post_Code"), postCode): Verifed actule & expected data
+
+2021-03-18 12:56:37 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:37 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:37 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Quote_Details_Page/Corresponding_Address_Section/get_Address"), address): Verifed actule & expected data
+
+2021-03-18 12:56:38 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:38 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:38 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Quote_Details_Page/btn_Get_Quote"), shortTime): Element has been clicked
+
+2021-03-18 12:56:38 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:38 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:38 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:56:38 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:38 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:56:40 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page' .
+
+2021-03-18 12:56:40 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_8.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side" time="9.011" classname="Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:56:40 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side: Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side
+
+2021-03-18 12:56:40 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:56:40 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:40 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:56:41 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/header_Pricecompare_Page"), shortTime): Element has been present
+
+2021-03-18 12:56:41 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:56:41 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/header_Property Details"), shortTime) == true): null
+
+2021-03-18 12:56:42 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:56:42 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/header_Property Details"), heradrPropertyDetails): Verifed actule & expected data
+
+2021-03-18 12:56:42 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:42 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:42 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Property_Section/gettext_Sell_Price_Of_Property"), sellPricetext): Verifed actule & expected data
+
+2021-03-18 12:56:43 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:43 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:43 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Property_Section/get_SellBuy_Price"), sellPrice): Verifed actule & expected data
+
+2021-03-18 12:56:43 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:43 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:43 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Property_Section/btn_Show more"), shortTime): Element has been clicked
+
+2021-03-18 12:56:44 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:44 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:44 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/get_Sell_Comments"), sellComments): Verifed actule & expected data
+
+2021-03-18 12:56:45 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:45 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:45 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Property_Section/toggle_Buy"), shortTime): Element has been clicked
+
+2021-03-18 12:56:45 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:45 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:45 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/getText_Buy_Price_Of_Property"), buyPricetext): Verifed actule & expected data
+
+2021-03-18 12:56:46 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:46 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:46 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Property_Section/get_SellBuy_Price"), buyPrice): Verifed actule & expected data
+
+2021-03-18 12:56:46 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:46 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:46 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Property_Section/btn_Show more"), shortTime): Element has been clicked
+
+2021-03-18 12:56:47 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:47 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:47 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/get_Buy_Comments"), buyComments): Verifed actule & expected data
+
+2021-03-18 12:56:47 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:56:47 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:56:47 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:56:47 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:47 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:56:49 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side' .
+
+2021-03-18 12:56:49 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_9.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details" time="15.094" classname="Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:56:49 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details: Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details
+
+2021-03-18 12:56:49 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:56:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:56:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:56:50 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Property_Section/toggle_Sell"), shortTime): Element has been clicked
+
+2021-03-18 12:56:50 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:50 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:50 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Property_Section/btn_Edit the info"), shortTime): Element has been clicked
+
+2021-03-18 12:56:50 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:56:50 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:56:50 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/header_Sell and Buy pop up"), shortTime) == true): null
+
+2021-03-18 12:56:52 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:56:52 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/header_ Selling Property Details"), shortTime): Element has been present
+
+2021-03-18 12:56:53 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:56:53 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Selling_Property_Details_Page/input_Price_Of_Property"), editSellPrice): Sendkey value has been send
+
+2021-03-18 12:56:56 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:56:59 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:56:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/btn_Update Quote"), shortTime): Element has been clicked
+
+2021-03-18 12:57:00 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:00 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:00 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/get_SellBuy_Price"), editSellPrice): Verifed actule & expected data
+
+2021-03-18 12:57:03 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:03 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:03 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:57:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:57:05 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details' .
+
+2021-03-18 12:57:05 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_10.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details" time="15.309" classname="Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:57:05 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details: Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details
+
+2021-03-18 12:57:05 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:57:05 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:05 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:57:05 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/toggle_Buy"), shortTime): Element has been clicked
+
+2021-03-18 12:57:05 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:05 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:05 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Property_Section/btn_Edit the info"), shortTime): Element has been clicked
+
+2021-03-18 12:57:06 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:06 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:06 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/header_Sell and Buy pop up"), shortTime) == true): null
+
+2021-03-18 12:57:07 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:07 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/header_ Buying Property Details"), shortTime): Element has been present
+
+2021-03-18 12:57:07 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:07 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Quote/Selling_Property_Details_Page/input_Price_Of_Property"), editBuyPrice): Sendkey value has been send
+
+2021-03-18 12:57:11 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:57:14 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:57:14 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/btn_Update Quote"), shortTime): Element has been clicked
+
+2021-03-18 12:57:14 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:14 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:14 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/toggle_Buy"), shortTime): Element has been clicked
+
+2021-03-18 12:57:17 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:17 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:17 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Quote/PriceCompare_Page/Property_Section/get_SellBuy_Price"), editBuyPrice): Verifed actule & expected data
+
+2021-03-18 12:57:18 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:18 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:18 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:57:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:57:20 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details' .
+
+2021-03-18 12:57:20 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_11.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure" time="9.811" classname="Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:57:20 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure: Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure
+
+2021-03-18 12:57:20 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:57:20 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:20 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:57:20 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/text_Total Fees"), shortTime) == true): null
+
+2021-03-18 12:57:20 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:20 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Quote/PriceCompare_Page/View_Details"), shortTime): Element has been clicked
+
+2021-03-18 12:57:21 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:21 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:21 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Sell_Buy_Fees_On_Table"), shortTime): Element has been present
+
+2021-03-18 12:57:22 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:22 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Fees_Table/Buy_Fee_toggle_on_Table"), shortTime): Element has been clicked
+
+2021-03-18 12:57:22 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:22 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:22 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Sell_Buy_Fees_On_Table"), shortTime): Element has been present
+
+2021-03-18 12:57:23 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:23 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Fees_Table/Sell_Fee_toggle_on_Table"), shortTime): Element has been clicked
+
+2021-03-18 12:57:23 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:23 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:23 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/Column_Professional Fees"), professionalFees): Verifed actule & expected data
+
+2021-03-18 12:57:24 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:24 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:24 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_NET"), net): Verifed actule & expected data
+
+2021-03-18 12:57:24 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:24 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:24 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_VAT"), vat): Verifed actule & expected data
+
+2021-03-18 12:57:25 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:25 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:25 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_GROSS"), gross): Verifed actule & expected data
+
+2021-03-18 12:57:26 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:26 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:26 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_Third Party Disbursements"), thirdPartyDisbursements): Verifed actule & expected data
+
+2021-03-18 12:57:26 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:26 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:26 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_Selling Total"), sellingTotal): Verifed actule & expected data
+
+2021-03-18 12:57:27 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:27 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:27 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_Selling Buying Total"), sellbuyTotal): Verifed actule & expected data
+
+2021-03-18 12:57:28 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:28 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:28 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:57:28 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:28 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:57:30 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure' .
+
+2021-03-18 12:57:30 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_12.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure" time="7.427" classname="Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:57:30 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure: Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure
+
+2021-03-18 12:57:30 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:57:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:57:30 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Fees_Table/Buy_Fee_toggle_on_Table"), shortTime): Element has been clicked
+
+2021-03-18 12:57:30 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:30 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:30 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/Sell_Buy_Fees_On_Table"), shortTime): Element has been present
+
+2021-03-18 12:57:31 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:31 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/Column_Professional Fees"), professionalFees): Verifed actule & expected data
+
+2021-03-18 12:57:31 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:31 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:31 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_NET"), net): Verifed actule & expected data
+
+2021-03-18 12:57:32 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:32 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:32 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_VAT"), vat): Verifed actule & expected data
+
+2021-03-18 12:57:33 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:33 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_GROSS"), gross): Verifed actule & expected data
+
+2021-03-18 12:57:33 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:33 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_Third Party Disbursements"), thirdPartyDisbursements): Verifed actule & expected data
+
+2021-03-18 12:57:34 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:34 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:34 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/PriceCompare_Page/Fees_Table/column_Stamp duty"), stampDuty): Verifed actule & expected data
+
+2021-03-18 12:57:35 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:35 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:35 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/Fees_Table/btn_Close Icon"), shortTime): Element has been clicked
+
+2021-03-18 12:57:35 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:35 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:35 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:57:35 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:35 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:57:37 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure' .
+
+2021-03-18 12:57:37 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_13.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_014_Verify that email quote functionality" time="25.451" classname="Test Cases/Sanity_Test/TC_014_Verify that email quote functionality" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:57:37 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_014_Verify that email quote functionality: Test Cases/Sanity_Test/TC_014_Verify that email quote functionality
+
+2021-03-18 12:57:37 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:57:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:57:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:57:37 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/btn_Email Quote"), shortTime) == true): null
+
+2021-03-18 12:57:38 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:38 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/btn_Email Quote"), shortTime): Element has been clicked
+
+2021-03-18 12:57:38 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:38 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:38 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Quote/Email_Quote_Page/Header_Email_Quote"), shortTime): Element has been present
+
+2021-03-18 12:57:51 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:57:51 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Email_Quote_Page/get_Email_sent_successfully"), emailsentMSG): Verifed actule & expected data
+
+2021-03-18 12:57:52 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:52 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:52 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Quote/Email_Quote_Page/get_Email_Quote_details"), emailQuoteDetails): Verifed actule & expected data
+
+2021-03-18 12:57:53 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:57:53 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:57:53 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/Email_Quote_Page/btn_Return to your quotes"), shortTime): Element has been clicked
+
+2021-03-18 12:57:53 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:57:53 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:57:53 - [TEST_STEP][PASSED] - refresh(): Refresh successfully
+
+2021-03-18 12:57:59 - [MESSAGE][PASSED] - Refresh successfully
+
+2021-03-18 12:57:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/header_Pricecompare_Page"), shortTime): Element has been present
+
+2021-03-18 12:58:01 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:58:01 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:58:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:58:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:58:03 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_014_Verify that email quote functionality' .
+
+2021-03-18 12:58:03 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_014_Verify that email quote functionality' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_14.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote" time="36.368" classname="Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:58:03 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote: Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote
+
+2021-03-18 12:58:03 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:58:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:58:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:58:03 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/header_Pricecompare_Page"), shortTime): Element has been present
+
+2021-03-18 12:58:03 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:58:03 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/PriceCompare_Page/btn_Instruct Us"), shortTime) == true): null
+
+2021-03-18 12:58:04 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:58:04 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Quote/PriceCompare_Page/btn_Instruct Us"), shortTime): Element has been clicked
+
+2021-03-18 12:58:04 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:58:04 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:58:04 - [TEST_STEP][PASSED] - delay(30): Delayed 30 second(s)
+
+2021-03-18 12:58:34 - [MESSAGE][PASSED] - Delayed 30 second(s)
+
+2021-03-18 12:58:34 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Quote/Instruct_Us_Page/header_Instructed Page"), shortTime): Element has been present
+
+2021-03-18 12:58:37 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:58:37 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:58:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:58:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:58:39 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote' .
+
+2021-03-18 12:58:39 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_15.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard" time="44.042" classname="Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:58:39 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard: Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard
+
+2021-03-18 12:58:39 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:58:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:58:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:58:39 - [TEST_STEP][PASSED] - callTestCase(findTestCase("common_test _cases/login_Page"), ["headerDashboard":headerDashboard, "loginId":User1, "Password":Password], STOP_ON_FAILURE): Call Test Case 'Test Cases/common_test _cases/login_Page' successfully
+
+2021-03-18 12:58:39 - [TEST_CASE][PASSED] - Test Cases/common_test _cases/login_Page: Test Cases/common_test _cases/login_Page
+
+2021-03-18 12:58:39 - [TEST_STEP][PASSED] - navigateToUrl(baseurl + "/ph", STOP_ON_FAILURE): Navigate to 'https://imovehome.icompleteonline.co.uk/ph' successfully
+
+2021-03-18 12:58:45 - [MESSAGE][PASSED] - Navigate to 'https://imovehome.icompleteonline.co.uk/ph' successfully
+
+2021-03-18 12:58:45 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/login_Page/tab_login"), shortTime): Element has been present
+
+2021-03-18 12:58:47 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:58:47 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/login_Page/header_login"), shortTime): Element has been present
+
+2021-03-18 12:58:48 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:58:48 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/login_Page/input_login_id"), loginId): Sendkey value has been send
+
+2021-03-18 12:58:52 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:58:55 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:58:55 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/login_Page/input_Password"), Password): Sendkey value has been send
+
+2021-03-18 12:58:58 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:59:01 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:59:01 - [TEST_STEP][PASSED] - click(findTestObject("login_Page/btn_login")): Object: 'Object Repository/login_Page/btn_login' is clicked on
+
+2021-03-18 12:59:05 - [MESSAGE][PASSED] - Object: 'Object Repository/login_Page/btn_login' is clicked on
+
+2021-03-18 12:59:05 - [TEST_STEP][PASSED] - delay(7): Delayed 7 second(s)
+
+2021-03-18 12:59:12 - [MESSAGE][PASSED] - Delayed 7 second(s)
+
+2021-03-18 12:59:12 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Dashborad/header_Dashboard"), headerDashboard): Verifed actule & expected data
+
+2021-03-18 12:59:14 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 12:59:14 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 12:59:14 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/common_test _cases/login_Page' successfully
+
+2021-03-18 12:59:14 - [TEST_STEP][PASSED] - waitForPageLoad(longTime): Wait for page load successfully
+
+2021-03-18 12:59:14 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2021-03-18 12:59:14 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Dashborad/hedaer_Your Recent Propertie"), shortTime) == true): null
+
+2021-03-18 12:59:15 - [MESSAGE][PASSED] - Object 'Object Repository/Dashborad/hedaer_Your Recent Propertie' is present
+
+2021-03-18 12:59:15 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Dashborad/hedaer_Your Recent Propertie"), shortTime): Element has been present
+
+2021-03-18 12:59:15 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:59:15 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Dashborad/tab_Quotes Accepted"), shortTime) == true): null
+
+2021-03-18 12:59:16 - [MESSAGE][PASSED] - Object 'Object Repository/Dashborad/tab_Quotes Accepted' is present
+
+2021-03-18 12:59:16 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2021-03-18 12:59:21 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2021-03-18 12:59:21 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Dashborad/tab_Quotes Accepted"), shortTime): Element has been clicked
+
+2021-03-18 12:59:21 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:59:21 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:59:21 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 12:59:21 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:59:21 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 12:59:23 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard' .
+
+2021-03-18 12:59:23 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_16.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_017_Verify that user can update Property details" time="73.609" classname="Test Cases/Sanity_Test/TC_017_Verify that user can update Property details" status="PASSED">
+         <system-out><![CDATA[2021-03-18 12:59:23 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_017_Verify that user can update Property details: Test Cases/Sanity_Test/TC_017_Verify that user can update Property details
+
+2021-03-18 12:59:23 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 12:59:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 12:59:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 12:59:23 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Dashborad/get_first_Quote_on_tab"), shortTime) == true): null
+
+2021-03-18 12:59:25 - [MESSAGE][PASSED] - Object 'Object Repository/Dashborad/get_first_Quote_on_tab' is present
+
+2021-03-18 12:59:25 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Dashborad/get_first_Quote_on_tab"), shortTime): Element has been clicked
+
+2021-03-18 12:59:26 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:59:26 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:59:26 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Deal Status/Deal Status_Page"), shortTime) == true): null
+
+2021-03-18 12:59:41 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Deal Status_Page' is present
+
+2021-03-18 12:59:41 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Property Details Section/btn_edit"), shortTime): Element has been clicked
+
+2021-03-18 12:59:41 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 12:59:41 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 12:59:41 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Deal Status/Property Details Section/header_Propert Details"), shortTime): Element has been present
+
+2021-03-18 12:59:42 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 12:59:42 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_Price"), buyPrice): Sendkey value has been send
+
+2021-03-18 12:59:46 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:59:49 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:59:49 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_UPRN"), uprn): Sendkey value has been send
+
+2021-03-18 12:59:53 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 12:59:56 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 12:59:56 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_title number"), titleNumber): Sendkey value has been send
+
+2021-03-18 12:59:59 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:00:02 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:00:02 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_Local Authority"), localAuthority): Sendkey value has been send
+
+2021-03-18 13:00:06 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:00:09 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:00:09 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_Flood Risk"), floodRisk): Sendkey value has been send
+
+2021-03-18 13:00:13 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:00:16 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:00:16 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_Plot Size"), plotSize): Sendkey value has been send
+
+2021-03-18 13:00:20 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:00:23 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:00:23 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Property Details Section/input_Summary"), summary): Sendkey value has been send
+
+2021-03-18 13:00:26 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:00:29 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:00:29 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Property Details Section/btn_Update"), shortTime): Element has been clicked
+
+2021-03-18 13:00:30 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:00:30 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:00:30 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Deal Status/Property Details Section/alert_message"), shortTime): Element has been present
+
+2021-03-18 13:00:33 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 13:00:33 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Deal Status/Property Details Section/btn_Ok"), shortTime): Element has been clicked
+
+2021-03-18 13:00:34 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:00:34 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:00:34 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Deal Status/Deal Status_Page"), shortTime): Element has been present
+
+2021-03-18 13:00:35 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 13:00:35 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:00:35 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:35 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:00:37 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_017_Verify that user can update Property details' .
+
+2021-03-18 13:00:37 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_017_Verify that user can update Property details' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_17.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_018_To check updated property details" time="6.574" classname="Test Cases/Sanity_Test/TC_018_To check updated property details" status="PASSED">
+         <system-out><![CDATA[2021-03-18 13:00:37 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_018_To check updated property details: Test Cases/Sanity_Test/TC_018_To check updated property details
+
+2021-03-18 13:00:37 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:00:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:00:37 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_Agreed_Price"), buyPrice): Verifed actule & expected data
+
+2021-03-18 13:00:37 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:37 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:37 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_Title Number"), titleNumber): Verifed actule & expected data
+
+2021-03-18 13:00:38 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:38 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:38 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_UPRN"), uprn): Verifed actule & expected data
+
+2021-03-18 13:00:39 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:39 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:39 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_Local Authority"), localAuthority): Verifed actule & expected data
+
+2021-03-18 13:00:39 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:39 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:39 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_Flood Risk"), floodRisk): Verifed actule & expected data
+
+2021-03-18 13:00:40 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:40 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:40 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_Plot Size"), plotSize): Verifed actule & expected data
+
+2021-03-18 13:00:41 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:41 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:41 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Property Details Section/get_Summary"), summary): Verifed actule & expected data
+
+2021-03-18 13:00:41 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:00:41 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:00:41 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:00:41 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:41 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_018_To check updated property details' .
+
+2021-03-18 13:00:43 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_018_To check updated property details' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_18.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_019_Verify that user can view Section" time="2.164" classname="Test Cases/Sanity_Test/TC_019_Verify that user can view Section" status="ERROR">
+         <error type="ERROR" message="Test Cases/Sanity_Test/TC_019_Verify that user can view Section FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_019_Verify%20that%20user%20can%20view%20Section/Script1612421229370.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+"/>
+         <system-out><![CDATA[2021-03-18 13:00:43 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_019_Verify that user can view Section: Test Cases/Sanity_Test/TC_019_Verify that user can view Section FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_019_Verify%20that%20user%20can%20view%20Section/Script1612421229370.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:00:45 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_019_Verify that user can view Section' .
+
+2021-03-18 13:00:45 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_019_Verify that user can view Section' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_19.avi]]]]></system-out>
+         <system-err><![CDATA[2021-03-18 13:00:43 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_019_Verify that user can view Section: Test Cases/Sanity_Test/TC_019_Verify that user can view Section FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_019_Verify%20that%20user%20can%20view%20Section/Script1612421229370.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality" time="15.768" classname="Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality" status="PASSED">
+         <system-out><![CDATA[2021-03-18 13:00:45 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality: Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality
+
+2021-03-18 13:00:45 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:00:45 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:45 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:00:46 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Deal Status/Message_Section/Channels/btn_Create_channel"), shortTime): Element has been clicked
+
+2021-03-18 13:00:46 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:00:46 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:00:46 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/Channels/title_Create_channel"), shortTime) == true): null
+
+2021-03-18 13:00:47 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 13:00:47 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_channelName"), channelName): Sendkey value has been send
+
+2021-03-18 13:00:50 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:00:53 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:00:53 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/select_member"), shortTime): Element has been clicked
+
+2021-03-18 13:00:54 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:00:54 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:00:54 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/btn_Create"), shortTime): Element has been clicked
+
+2021-03-18 13:00:54 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:00:54 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:00:54 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/Channels/alert_created channel"), shortTime): Element has been present
+
+2021-03-18 13:00:59 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 13:00:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Deal Status/Property Details Section/btn_Ok"), shortTime): Element has been clicked
+
+2021-03-18 13:00:59 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:00:59 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:00:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:00:59 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:00:59 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:01:01 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality' .
+
+2021-03-18 13:01:01 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_20.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_021_Message send functionlity on channel" time="48.811" classname="Test Cases/Sanity_Test/TC_021_Message send functionlity on channel" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sanity_Test/TC_021_Message send functionlity on channel FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to click on element
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$1.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickElement(TestBase.groovy:53)
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_021_Message send functionlity on channel.run(TC_021_Message send functionlity on channel:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+"/>
+         <system-out><![CDATA[2021-03-18 13:01:01 - [TEST_CASE][FAILED] - Test Cases/Sanity_Test/TC_021_Message send functionlity on channel: Test Cases/Sanity_Test/TC_021_Message send functionlity on channel FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to click on element
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$1.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickElement(TestBase.groovy:53)
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_021_Message send functionlity on channel.run(TC_021_Message send functionlity on channel:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+
+
+2021-03-18 13:01:01 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:01:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:01:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:01:01 - [TEST_STEP][PASSED] - if (com.wecomplete.keywords.TestBase.isElementPresent(findTestObject("Deal Status/Message_Section/Channels/get_Channel"), shortTime) == true): null
+
+2021-03-18 13:01:02 - [MESSAGE][PASSED] - Element has been present
+
+2021-03-18 13:01:02 - [TEST_STEP][FAILED] - com.wecomplete.keywords.TestBase.clickElement(findTestObject("Deal Status/Message_Section/Channels/get_Channel")): com.kms.katalon.core.exception.StepFailedException: Fail to click on element
+
+2021-03-18 13:01:05 - [MESSAGE][FAILED] - Fail to click on element
+
+2021-03-18 13:01:05 - [MESSAGE][FAILED] - com.kms.katalon.core.exception.StepFailedException: Fail to click on element
+
+2021-03-18 13:01:05 - [TEST_STEP][FAILED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_Compose"), message): java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Channels/input_Compose' located by 'By.xpath: //div[starts-with(@data-placeholder,'Message to')]' not found
+
+2021-03-18 13:01:48 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[starts-with(@data-placeholder,'Message to')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-03-18 13:01:48 - [MESSAGE][FAILED] - java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Channels/input_Compose' located by 'By.xpath: //div[starts-with(@data-placeholder,'Message to')]' not found
+
+2021-03-18 13:01:48 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:01:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:01:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:01:50 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_021_Message send functionlity on channel' .
+
+2021-03-18 13:01:50 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_021_Message send functionlity on channel' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_21.avi]]]]></system-out>
+         <system-err><![CDATA[2021-03-18 13:01:01 - [TEST_CASE][FAILED] - Test Cases/Sanity_Test/TC_021_Message send functionlity on channel: Test Cases/Sanity_Test/TC_021_Message send functionlity on channel FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Fail to click on element
+	at com.kms.katalon.core.util.KeywordUtil.markFailed(KeywordUtil.java:19)
+	at com.kms.katalon.core.util.KeywordUtil$markFailed$1.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.clickElement(TestBase.groovy:53)
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_021_Message send functionlity on channel.run(TC_021_Message send functionlity on channel:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member" time="36.942" classname="Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member" status="PASSED">
+         <system-out><![CDATA[2021-03-18 13:01:50 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member: Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member
+
+2021-03-18 13:01:50 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:01:50 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:01:50 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:01:50 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Deal Status/Message_Section/Direct Messages section/tab_Direct Messages"), shortTime) == true): null
+
+2021-03-18 13:01:50 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/Direct Messages section/tab_Direct Messages' is present
+
+2021-03-18 13:01:50 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Deal Status/Message_Section/Direct Messages section/tab_Direct Messages"), shortTime): Element has been clicked
+
+2021-03-18 13:01:51 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:01:51 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:01:51 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/Direct Messages section/dircte_message_member_1"), shortTime) == true): null
+
+2021-03-18 13:01:51 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/Direct Messages section/dircte_message_member_1' is present
+
+2021-03-18 13:01:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deal Status/Message_Section/Direct Messages section/dircte_message_member_1")): Object: 'Object Repository/Deal Status/Message_Section/Direct Messages section/dircte_message_member_1' is clicked on
+
+2021-03-18 13:01:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Deal Status/Message_Section/Direct Messages section/dircte_message_member_1' is clicked on
+
+2021-03-18 13:01:58 - [TEST_STEP][PASSED] - "Select direct message member": null
+
+2021-03-18 13:01:58 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_Compose"), message): Sendkey value has been send
+
+2021-03-18 13:02:07 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:02:10 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:02:10 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/btn_Send"), shortTime): Element has been clicked
+
+2021-03-18 13:02:10 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:10 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:10 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/tab_Document Request"), shortTime): Element has been clicked
+
+2021-03-18 13:02:14 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:14 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:14 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_Docuemnt_Request"), documentRequest): Sendkey value has been send
+
+2021-03-18 13:02:17 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:02:21 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:02:21 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/btn_Document_request_Send"), shortTime): Element has been clicked
+
+2021-03-18 13:02:21 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:21 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:21 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Deal Status/Message_Section/get _Request_Successfully_MSG"), docRequestMSG): Verifed actule & expected data
+
+2021-03-18 13:02:24 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:02:24 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:02:24 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Property Details Section/btn_Ok"), shortTime): Element has been clicked
+
+2021-03-18 13:02:24 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:24 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:24 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/btn_ Back to calendar"), shortTime): Element has been clicked
+
+2021-03-18 13:02:25 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:25 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:02:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:02:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:02:27 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member' .
+
+2021-03-18 13:02:27 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_22.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact" time="18.85" classname="Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact" status="PASSED">
+         <system-out><![CDATA[2021-03-18 13:02:27 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact: Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact
+
+2021-03-18 13:02:27 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:02:27 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:02:27 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:02:27 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Deal Status/Message_Section/External_Contact _Section/tab_External Contacts"), shortTime) == true): null
+
+2021-03-18 13:02:29 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/External_Contact _Section/tab_External Contacts' is present
+
+2021-03-18 13:02:29 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/External_Contact _Section/add_External"), shortTime): Element has been clicked
+
+2021-03-18 13:02:29 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:29 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:29 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/External_Contact _Section/header_External Contacts"), shortTime) == true): null
+
+2021-03-18 13:02:29 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/External_Contact _Section/header_External Contacts' is present
+
+2021-03-18 13:02:29 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Message_Section/External_Contact _Section/header_External Contacts"), titleExternal): Verifed actule & expected data
+
+2021-03-18 13:02:30 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:02:30 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:02:30 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/External_Contact _Section/input_Email"), externalMember): Sendkey value has been send
+
+2021-03-18 13:02:34 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:02:37 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:02:37 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/External_Contact _Section/input_Name"), externalName): Sendkey value has been send
+
+2021-03-18 13:02:40 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:02:43 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:02:43 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/External_Contact _Section/button_Add"), shortTime): Element has been clicked
+
+2021-03-18 13:02:44 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:44 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:44 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:02:44 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:02:44 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:02:46 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact' .
+
+2021-03-18 13:02:46 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_23.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member" time="29.849" classname="Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member" status="PASSED">
+         <system-out><![CDATA[2021-03-18 13:02:46 - [TEST_CASE][PASSED] - Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member: Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member
+
+2021-03-18 13:02:46 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:02:46 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:02:46 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:02:46 - [TEST_STEP][PASSED] - if (verifyElementVisible(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_Compose")) == true): null
+
+2021-03-18 13:02:52 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/Channels/input_Compose' is visible
+
+2021-03-18 13:02:52 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_Compose"), message): Sendkey value has been send
+
+2021-03-18 13:02:56 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:02:59 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:02:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/btn_Send"), shortTime): Element has been clicked
+
+2021-03-18 13:02:59 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:02:59 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:02:59 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/tab_Document Request"), shortTime): Element has been clicked
+
+2021-03-18 13:03:02 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:02 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:02 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Channels/input_Docuemnt_Request"), documentRequest): Sendkey value has been send
+
+2021-03-18 13:03:06 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:03:09 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:03:09 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Channels/btn_Document_request_Send"), shortTime): Element has been clicked
+
+2021-03-18 13:03:09 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:09 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:09 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Deal Status/Message_Section/get _Request_Successfully_MSG"), docRequestMSG): Verifed actule & expected data
+
+2021-03-18 13:03:13 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:03:13 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:03:13 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Property Details Section/btn_Ok"), shortTime): Element has been clicked
+
+2021-03-18 13:03:13 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:13 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:13 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/btn_ Back to calendar"), shortTime): Element has been clicked
+
+2021-03-18 13:03:14 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:14 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:03:14 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:03:14 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member' .
+
+2021-03-18 13:03:16 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_24.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent" time="2.164" classname="Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent" status="ERROR">
+         <error type="ERROR" message="Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_025_Verify%20that%20New%20Business%20role%20user%20can%20assigned%20case%20to%20the%20Estate%20agent/Script1614777470895.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+"/>
+         <system-out><![CDATA[2021-03-18 13:03:16 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent: Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_025_Verify%20that%20New%20Business%20role%20user%20can%20assigned%20case%20to%20the%20Estate%20agent/Script1614777470895.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:03:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:03:18 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent' .
+
+2021-03-18 13:03:18 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_25.avi]]]]></system-out>
+         <system-err><![CDATA[2021-03-18 13:03:16 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent: Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_025_Verify%20that%20New%20Business%20role%20user%20can%20assigned%20case%20to%20the%20Estate%20agent/Script1614777470895.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_026_Verify that user can Invite People" time="61.203" classname="Test Cases/Sanity_Test/TC_026_Verify that user can Invite People" status="ERROR">
+         <error type="ERROR" message="Test Cases/Sanity_Test/TC_026_Verify that user can Invite People FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_026_Verify that user can Invite People.run(TC_026_Verify that user can Invite People:57)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.getText(TestBase.groovy:167)
+	... 16 more
+"/>
+         <system-out><![CDATA[2021-03-18 13:03:18 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_026_Verify that user can Invite People: Test Cases/Sanity_Test/TC_026_Verify that user can Invite People FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_026_Verify that user can Invite People.run(TC_026_Verify that user can Invite People:57)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.getText(TestBase.groovy:167)
+	... 16 more
+
+
+2021-03-18 13:03:18 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:03:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:03:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:03:18 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/tab_Invite People"), shortTime) == true): null
+
+2021-03-18 13:03:18 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/Invite_Section/tab_Invite People' is present
+
+2021-03-18 13:03:18 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/add_invite_icon"), shortTime): Element has been clicked
+
+2021-03-18 13:03:19 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:19 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:19 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/title_invite_people"), shortTime) == true): null
+
+2021-03-18 13:03:19 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/Invite_Section/title_invite_people' is present
+
+2021-03-18 13:03:19 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/title_invite_people"), titleInvite): Verifed actule & expected data
+
+2021-03-18 13:03:19 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:03:19 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:03:19 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/input_Email_Address"), inviteMemberID): Sendkey value has been send
+
+2021-03-18 13:03:23 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:03:26 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:03:26 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/select_Role_DD"), shortTime): Element has been clicked
+
+2021-03-18 13:03:27 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:27 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:27 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Deal Status/Message_Section/Invite_Section/select_Role_Value"), shortTime): Element has been clicked
+
+2021-03-18 13:03:28 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:28 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:28 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.sendkeyElement(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/input_Name"), inviteMemberName): Sendkey value has been send
+
+2021-03-18 13:03:32 - [MESSAGE][PASSED] - Element has been cleared
+
+2021-03-18 13:03:35 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2021-03-18 13:03:35 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/Invite_Section/btn_Send_Invitation"), shortTime): Element has been clicked
+
+2021-03-18 13:03:35 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:03:35 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:03:35 - [TEST_STEP][FAILED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Deal Status/Message_Section/get _Request_Successfully_MSG"), invitationRequestMSG): java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+
+2021-03-18 13:04:17 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='swal2-content']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-03-18 13:04:17 - [MESSAGE][FAILED] - java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+
+2021-03-18 13:04:17 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:04:17 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:04:17 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:04:19 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_026_Verify that user can Invite People' .
+
+2021-03-18 13:04:19 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_026_Verify that user can Invite People' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_26.avi]]]]></system-out>
+         <system-err><![CDATA[2021-03-18 13:03:18 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_026_Verify that user can Invite People: Test Cases/Sanity_Test/TC_026_Verify that user can Invite People FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_026_Verify that user can Invite People.run(TC_026_Verify that user can Invite People:57)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/get _Request_Successfully_MSG' located by 'By.xpath: //div[@id='swal2-content']' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.getText(TestBase.groovy:167)
+	... 16 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab" time="46.42" classname="Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab" status="ERROR">
+         <error type="ERROR" message="Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id=&quot;collapseThree&quot;]//div[@class='channel-wrapper']//p[1]' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_027_Verify that invited member displayed on Pending invitations tab.run(TC_027_Verify that invited member displayed on Pending invitations tab:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id=&quot;collapseThree&quot;]//div[@class='channel-wrapper']//p[1]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.getText(TestBase.groovy:167)
+	... 16 more
+"/>
+         <system-out><![CDATA[2021-03-18 13:04:19 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab: Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_027_Verify that invited member displayed on Pending invitations tab.run(TC_027_Verify that invited member displayed on Pending invitations tab:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.getText(TestBase.groovy:167)
+	... 16 more
+
+
+2021-03-18 13:04:19 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2021-03-18 13:04:19 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:04:19 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2021-03-18 13:04:19 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Deal Status/Message_Section/tab_Pending Invitations"), shortTime) == true): null
+
+2021-03-18 13:04:20 - [MESSAGE][PASSED] - Object 'Object Repository/Deal Status/Message_Section/tab_Pending Invitations' is present
+
+2021-03-18 13:04:20 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Message_Section/tab_Pending Invitations"), tabPending): Verifed actule & expected data
+
+2021-03-18 13:04:20 - [MESSAGE][INFO] - Get actule text
+
+2021-03-18 13:04:20 - [MESSAGE][PASSED] - Verifed actule & expected data
+
+2021-03-18 13:04:20 - [TEST_STEP][PASSED] - com.wecomplete.keywords.TestBase.clickUsingJS(findTestObject("Object Repository/Deal Status/Message_Section/tab_Pending Invitations"), shortTime): Element has been clicked
+
+2021-03-18 13:04:21 - [MESSAGE][INFO] - Clicking element
+
+2021-03-18 13:04:21 - [MESSAGE][PASSED] - Element has been clicked
+
+2021-03-18 13:04:21 - [TEST_STEP][FAILED] - com.wecomplete.keywords.TestBase.getText(findTestObject("Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember"), inviteMemberName): java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]' not found
+
+2021-03-18 13:05:04 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2021-03-18 13:05:04 - [MESSAGE][FAILED] - java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]' not found
+
+2021-03-18 13:05:04 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2021-03-18 13:05:04 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2021-03-18 13:05:04 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2021-03-18 13:05:06 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab' .
+
+2021-03-18 13:05:06 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab' .
+[[ATTACHMENT|C:\\Users\\pritig\\Downloads\\WeComplete\\Reports\\20210318_125324\\Sanity Test\\20210318_125324/videos\\test_27.avi]]]]></system-out>
+         <system-err><![CDATA[2021-03-18 13:04:19 - [TEST_CASE][ERROR] - Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab: Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]' not found
+	at com.wecomplete.keywords.TestBase.invokeMethod(TestBase.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at TC_027_Verify that invited member displayed on Pending invitations tab.run(TC_027_Verify that invited member displayed on Pending invitations tab:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Deal Status/Message_Section/Pending_invitations_Section/get_PendingMember' located by 'By.xpath: //*[@id="collapseThree"]//div[@class='channel-wrapper']//p[1]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail$0.call(Unknown Source)
+	at com.wecomplete.keywords.TestBase.getText(TestBase.groovy:167)
+	... 16 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-03-18 12:53:26 - [TEST_SUITE][ERROR] - Sanity Test: Test Cases/Sanity_Test/TC_019_Verify that user can view Section FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_019_Verify%20that%20user%20can%20view%20Section/Script1612421229370.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)]]></system-out>
+      <system-err><![CDATA[2021-03-18 12:53:26 - [TEST_SUITE][ERROR] - Sanity Test: Test Cases/Sanity_Test/TC_019_Verify that user can view Section FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/pritig/Downloads/WeComplete/Scripts/Sanity_Test/TC_019_Verify%20that%20user%20can%20view%20Section/Script1612421229370.groovy: 17: unable to resolve class com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords
+ @ line 17, column 1.
+   import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+   ^
+
+1 error
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1616052204680.run(TempTestSuite1616052204680.groovy:36)]]></system-err>
+   </testsuite>
+</testsuites>

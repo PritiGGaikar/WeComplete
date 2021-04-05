@@ -1,0 +1,64 @@
+1
+00:00:00,332 --> 00:00:00,332
+3. Verify that Direct message is Present
+
+2
+00:00:02,072 --> 00:00:02,072
+3. Click on Direct message tab
+
+3
+00:00:02,436 --> 00:00:02,437
+9. Verify member present on direct message section
+
+4
+00:00:03,262 --> 00:00:03,263
+1. click(findTestObject("Object Repository/Deal Status/Message_Section/Direct Messages section/dircte_message_member_1"))
+
+5
+00:00:07,045 --> 00:00:07,045
+9. Enter message
+
+6
+00:00:18,780 --> 00:00:18,781
+15. Click on send button
+
+7
+00:00:19,373 --> 00:00:19,373
+21. Click on Document Request tab
+
+8
+00:00:22,574 --> 00:00:22,575
+27. Enter message document request tab
+
+9
+00:00:29,680 --> 00:00:29,680
+33. Click on send button
+
+10
+00:00:30,243 --> 00:00:30,244
+39. Verify that Document request successfully text .
+
+11
+00:00:33,052 --> 00:00:33,053
+45. Click on Ok button
+
+12
+00:00:33,535 --> 00:00:33,535
+51. Click on Back to calendar btn
+
+13
+00:00:34,366 --> 00:00:34,366
+1. println(testCaseContext.getTestCaseId())
+
+14
+00:00:34,367 --> 00:00:34,367
+5. println(testCaseContext.getTestCaseStatus())
+
+15
+00:00:36,537 --> 00:00:36,537
+1. println(testCaseContext.getTestCaseId())
+
+16
+00:00:36,537 --> 00:00:36,537
+5. println(testCaseContext.getTestCaseVariables())
+

@@ -1,0 +1,72 @@
+1
+00:00:00,153 --> 00:00:00,153
+1. xpath = "//*[@id="" + currentDate() + ""]"
+
+2
+00:00:00,153 --> 00:00:00,154
+1. dateFormat = DateTimeFormatter.ofPattern("d-MMMM-yyyy")
+
+3
+00:00:00,154 --> 00:00:00,154
+5. now = LocalDateTime.now()
+
+4
+00:00:00,155 --> 00:00:00,155
+9. out.println(dateFormat.format(now))
+
+5
+00:00:00,155 --> 00:00:00,155
+13. return dateFormat.format(now)
+
+6
+00:00:00,155 --> 00:00:00,156
+5. out.println(xpath)
+
+7
+00:00:00,156 --> 00:00:00,156
+9. to = new com.kms.katalon.core.testobject.TestObject(objectName)
+
+8
+00:00:00,156 --> 00:00:00,157
+13. to.addProperty("xpath", EQUALS, xpath)
+
+9
+00:00:00,157 --> 00:00:00,157
+19. Click on Current date of calendar
+
+10
+00:00:00,392 --> 00:00:00,392
+25. Verify Reminder tab is present
+
+11
+00:00:00,640 --> 00:00:00,641
+3. Click on Reminder tab
+
+12
+00:00:00,903 --> 00:00:00,903
+9. Enter event title
+
+13
+00:00:07,627 --> 00:00:07,627
+15. Click on Save button
+
+14
+00:00:07,891 --> 00:00:07,892
+19. scrollToElement(findTestObject("Deal Status/Calendar/Reminder_Section/get_reminder"), shortTime)
+
+15
+00:00:49,813 --> 00:00:49,813
+25. Verify created reminder
+
+16
+00:01:32,874 --> 00:01:32,874
+1. println(testCaseContext.getTestCaseId())
+
+17
+00:01:32,874 --> 00:01:32,874
+5. println(testCaseContext.getTestCaseStatus())
+
+18
+00:01:34,957 --> 00:01:34,957
+1. println(testSuiteContext.getTestSuiteId())
+

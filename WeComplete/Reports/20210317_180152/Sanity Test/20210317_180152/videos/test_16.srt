@@ -1,0 +1,92 @@
+1
+00:00:00,394 --> 00:00:00,394
+1. callTestCase(findTestCase("common_test _cases/login_Page"), ["headerDashboard":headerDashboard, "loginId":User1, "Password":Password], STOP_ON_FAILURE)
+
+2
+00:00:00,908 --> 00:00:00,909
+3. Navigate to legal URL
+
+3
+00:00:08,649 --> 00:00:08,649
+9. Verify Login tab
+
+4
+00:00:09,315 --> 00:00:09,315
+15. Verify Login Page header
+
+5
+00:00:10,041 --> 00:00:10,041
+21. Enter Login id
+
+6
+00:00:16,999 --> 00:00:17,000
+27. Enter Password
+
+7
+00:00:23,947 --> 00:00:23,948
+33. Click on Login button
+
+8
+00:00:27,726 --> 00:00:27,728
+37. delay(7)
+
+9
+00:00:34,770 --> 00:00:34,771
+43. Verify after login Dashbard page opned
+
+10
+00:00:39,924 --> 00:00:39,924
+5. waitForPageLoad(longTime)
+
+11
+00:00:40,184 --> 00:00:40,184
+9. if (verifyElementPresent(findTestObject("Object Repository/Dashborad/hedaer_Your Recent Propertie"), shortTime) == true)
+
+12
+00:00:40,643 --> 00:00:40,644
+3. Your Recent Propertie header
+
+13
+00:00:41,255 --> 00:00:41,256
+9. Verify created first quote dispalyed on recent property section
+
+14
+00:00:42,001 --> 00:00:42,002
+15. Verify created second quote  dispalyed on recent property section
+
+15
+00:00:42,737 --> 00:00:42,738
+21. Visible Quote Accepted tab 
+
+16
+00:00:43,796 --> 00:00:43,796
+1. delay(5)
+
+17
+00:00:48,801 --> 00:00:48,802
+7. Click on Quote Accepted tab
+
+18
+00:00:49,245 --> 00:00:49,245
+13. Verify created Sell/ Buy quote displayed on tab
+
+19
+00:00:51,786 --> 00:00:51,786
+19. Verify created Sell/ Buy quote displayed on tab
+
+20
+00:00:52,571 --> 00:00:52,571
+1. println(testCaseContext.getTestCaseId())
+
+21
+00:00:52,572 --> 00:00:52,572
+5. println(testCaseContext.getTestCaseStatus())
+
+22
+00:00:54,909 --> 00:00:54,909
+1. println(testCaseContext.getTestCaseId())
+
+23
+00:00:54,909 --> 00:00:54,909
+5. println(testCaseContext.getTestCaseVariables())
+

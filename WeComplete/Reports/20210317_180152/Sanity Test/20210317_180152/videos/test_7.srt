@@ -1,0 +1,32 @@
+1
+00:00:00,401 --> 00:00:00,401
+3. Verify Personal Details section on Quote Details page
+
+2
+00:00:01,056 --> 00:00:01,057
+9. Verify Personal Details section on Quote Details page
+
+3
+00:00:01,813 --> 00:00:01,814
+15. Verify Primary holder Mobile number on Quote Details page
+
+4
+00:00:02,570 --> 00:00:02,570
+21. Verify Primary holder Email Id on Quote Details page
+
+5
+00:00:03,325 --> 00:00:03,325
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:03,325 --> 00:00:03,325
+5. println(testCaseContext.getTestCaseStatus())
+
+7
+00:00:05,423 --> 00:00:05,423
+1. println(testCaseContext.getTestCaseId())
+
+8
+00:00:05,423 --> 00:00:05,439
+5. println(testCaseContext.getTestCaseVariables())
+

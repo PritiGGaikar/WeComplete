@@ -1,0 +1,48 @@
+1
+00:00:00,104 --> 00:00:00,104
+3. Verify Email Quote button is present
+
+2
+00:00:00,563 --> 00:00:00,563
+3. Click on Email quote
+
+3
+00:00:01,007 --> 00:00:01,007
+9. Verify Thank You for Requesting Our Quote Page header
+
+4
+00:00:14,217 --> 00:00:14,217
+15. Verify Email sent successfully Message
+
+5
+00:00:14,870 --> 00:00:14,871
+21. Verify Email Quote message details
+
+6
+00:00:15,530 --> 00:00:15,530
+27. Click on Return to your quote
+
+7
+00:00:15,978 --> 00:00:15,979
+31. refresh()
+
+8
+00:00:21,409 --> 00:00:21,409
+37. Verify Conveyancing Page header
+
+9
+00:00:23,411 --> 00:00:23,411
+1. println(testCaseContext.getTestCaseId())
+
+10
+00:00:23,411 --> 00:00:23,411
+5. println(testCaseContext.getTestCaseStatus())
+
+11
+00:00:25,459 --> 00:00:25,459
+1. println(testCaseContext.getTestCaseId())
+
+12
+00:00:25,460 --> 00:00:25,460
+5. println(testCaseContext.getTestCaseVariables())
+

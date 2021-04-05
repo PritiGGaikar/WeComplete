@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Joint_Holder_EmailId</name>
+   <tag></tag>
+   <elementGuidId>55a7e41b-5b4b-4bf3-9a89-0f03cbc5287b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form/div/div/div[3]/div[2]/mat-form-field/div/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form/div/div/div[3]/div[2]/mat-form-field/div/div[1]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

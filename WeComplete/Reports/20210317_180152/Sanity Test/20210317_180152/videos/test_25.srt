@@ -1,0 +1,36 @@
+1
+00:00:00,450 --> 00:00:00,450
+1. callTestCase(findTestCase("common_test _cases/login_Page"), ["headerDashboard":headerDashboard, "loginId":EA1, "Password":Password], STOP_ON_FAILURE)
+
+2
+00:00:00,546 --> 00:00:00,546
+3. Navigate to legal URL
+
+3
+00:00:03,883 --> 00:00:03,884
+9. Verify Login tab
+
+4
+00:00:12,400 --> 00:00:12,400
+15. Verify Login Page header
+
+5
+00:00:18,795 --> 00:00:18,795
+21. Enter Login id
+
+6
+00:00:49,979 --> 00:00:49,979
+1. println(testCaseContext.getTestCaseId())
+
+7
+00:00:49,988 --> 00:00:49,988
+5. println(testCaseContext.getTestCaseStatus())
+
+8
+00:00:52,194 --> 00:00:52,194
+1. println(testCaseContext.getTestCaseId())
+
+9
+00:00:52,194 --> 00:00:52,194
+5. println(testCaseContext.getTestCaseVariables())
+
