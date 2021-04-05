@@ -128,7 +128,7 @@
    <testCaseLink>
       <guid>264618ef-b211-4f3b-8fd1-858a16147632</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_003_To verify that user able to enter Personal Details</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -191,7 +191,7 @@
    <testCaseLink>
       <guid>f6e5d94e-359c-481a-bf16-304e154cdad9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_004_To verify that user able to enter Address Details</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -218,7 +218,7 @@
    <testCaseLink>
       <guid>06eb66fc-55f3-42d2-a1e8-0f32d0e7f265</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_005_To verify entered Sell property details on Quote Details page</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -263,7 +263,7 @@
    <testCaseLink>
       <guid>6768b779-4954-4dc2-a0ed-b07d61b50e91</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_006_To verify entered Buy Property details on Quote Details page</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -302,7 +302,7 @@
    <testCaseLink>
       <guid>5e25beef-8043-487a-94ab-d18e41a69d94</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_007_To verify entered Personal details on Quote Details page</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -341,7 +341,7 @@
    <testCaseLink>
       <guid>fbbcfa93-676c-4721-a3f9-4ff72b2b91e6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_008_To verify Selected Corresponding Address on Quote Details page</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -374,7 +374,7 @@
    <testCaseLink>
       <guid>77e858ea-ff2f-4c04-adb6-1a448cb44a65</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_009_To verify that user can view Property section on left side</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -431,7 +431,7 @@
    <testCaseLink>
       <guid>6954344d-bb2e-4672-9d2b-4145b95fd680</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_010_Verify that user can edit sell property details</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -452,7 +452,7 @@
    <testCaseLink>
       <guid>1bba2f91-43df-4133-8240-7736ea6f18c0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_011_Verify that user can edit Buy property details</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -473,7 +473,7 @@
    <testCaseLink>
       <guid>01e10470-34e2-48e8-9cb2-80d87b40ab77</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_012_Verify that user can view Sell Fee structure</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -542,7 +542,7 @@
    <testCaseLink>
       <guid>bf986a5e-cab7-4e03-b26d-59a955953e7a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_013_Verify that user can view BuyFee structure</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -605,7 +605,7 @@
    <testCaseLink>
       <guid>9e45f452-42b4-4b10-95fe-0a8c63ce4abe</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_014_Verify that email quote functionality</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -632,7 +632,7 @@
    <testCaseLink>
       <guid>7ee8e170-bc58-404b-8a33-29ecae71362f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_015_Verify that user can instruct the created quote</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -659,7 +659,7 @@
    <testCaseLink>
       <guid>481d9b73-8f3b-47fd-81f2-97bfc0ffa609</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_016_Verify that User can view created quote on dashboard</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -710,7 +710,7 @@
    <testCaseLink>
       <guid>079f9ece-ec70-4988-a467-748dc9744316</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_017_Verify that user can update Property details</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -773,7 +773,7 @@
    <testCaseLink>
       <guid>befd2a85-eed9-4b5b-bd1d-9bc3ce16b3b4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_018_To check updated property details</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -830,7 +830,7 @@
    <testCaseLink>
       <guid>0937eec0-9fc1-4bea-826a-8774f9815ef7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_020_Verify that create Channels functionality</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -851,13 +851,13 @@
    <testCaseLink>
       <guid>9cbfb038-bb8a-4617-9360-1bc21c52a1ca</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_019_Verify that user can view Message Section</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>030ed253-d45f-481d-833f-70044b52c8f9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_021_Message send functionlity on channel</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -890,7 +890,7 @@
    <testCaseLink>
       <guid>3aada0c9-5842-4724-a1f4-0da07030f1ab</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_022_Message send functionlity on direct message member</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -923,7 +923,7 @@
    <testCaseLink>
       <guid>c2bbf2de-2ac5-48d9-b871-645135c21a51</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_023_Verify that the user can add external contact</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -956,7 +956,7 @@
    <testCaseLink>
       <guid>cd2d9755-2406-4149-8d8a-b4b716ae5628</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_024_Message send functionlity on External Contact member</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -989,7 +989,7 @@
    <testCaseLink>
       <guid>b6e2a4bc-8c5e-4a35-945d-65bf5bf19793</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_025_Verify that New Business role user can assigned case to the Estate agent</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1064,7 +1064,7 @@
    <testCaseLink>
       <guid>787c124e-2dac-463c-97e4-45efdc4a819f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_026_Verify that user can Invite People</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1103,7 +1103,7 @@
    <testCaseLink>
       <guid>a4a927c2-2a1c-43e9-80b8-f1332ca4a041</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_027_Verify that invited member displayed on Pending invitations tab</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1130,7 +1130,7 @@
    <testCaseLink>
       <guid>f8a70abb-e3ea-4095-b0e5-00a51a2e8ec4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_028_Verify that Estate agent can send AML request</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1163,7 +1163,7 @@
    <testCaseLink>
       <guid>c3f4e4c7-599e-4465-bca4-b84a5a4c9b73</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_029_Verify that New Business role user can assigned case to the Solicitor</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1238,7 +1238,7 @@
    <testCaseLink>
       <guid>029a0b91-5a73-4b46-8338-ae42067e90b4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_030_Verify that Solicitor can send AML request</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1271,7 +1271,7 @@
    <testCaseLink>
       <guid>5a409fd1-1f6a-40d4-aed0-1e43d354c9c2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_031_Verify that Solicitor can send Search order request</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1292,7 +1292,7 @@
    <testCaseLink>
       <guid>96a79b88-5537-4707-93b4-8bf204d3e585</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_032_Verify that Solicitor can send payment request</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1319,7 +1319,7 @@
    <testCaseLink>
       <guid>8bb2762e-9935-4e76-bdf2-ce11407f3cd2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_033_Verify that Solicitor can sent Document Sign request to the members</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1346,13 +1346,13 @@
    <testCaseLink>
       <guid>e35b157f-7a82-4e99-9600-03a56478016f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_034_Verify that solicitor can add conveyancer step</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>2f63bcb0-d9c0-4ec4-93a0-bd9a2460cdf5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_035_Verify user can add Event</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1379,7 +1379,7 @@
    <testCaseLink>
       <guid>9cdf4495-4b04-4bda-9662-65edb7cd646d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_036_Verify user can add Reminder</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
