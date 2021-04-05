@@ -9,11 +9,12 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>c19bfddc-ba6e-4f40-b973-ce861399b189</testSuiteGuid>
    <testCaseLink>
       <guid>83253861-8f32-4b93-a5b3-3d4c1f0dddef</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_001_To verify that user able to fill Selling Property Details form</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -76,7 +77,7 @@
    <testCaseLink>
       <guid>e7943738-8156-4967-9842-76c2b2353dc3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Sanity_Test/TC_002_To verify that user able to fill Buying Property Details form</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1405,7 +1406,7 @@
    <testCaseLink>
       <guid>d73e71a0-a96a-46f8-8a49-5f0349ceaaa6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Sanity_Test/Test</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
